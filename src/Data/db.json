@@ -1,0 +1,83 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "type": "commentator",
+      "name": "Yuu",
+      "image": "https://image.url.here",
+      "accounts": []
+    },
+    {
+      "id": 2,
+      "type": "cast",
+      "name": "Lauren Tsai",
+      "season": {
+        "name": "Aloha State",
+        "year": "2016 - 2017"
+      },
+      "image": "https://image.url.here",
+      "accounts": [
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/this_is_lala/"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/laurentsai98/"
+        },
+        {
+          "type": "twitter",
+          "url": "https://twitter.com/LaLaChuu"
+        },
+        {
+          "type": "twitter",
+          "url": "https://twitter.com/laurentsah"
+        },
+        {
+          "type": "blog",
+          "url": "http://lalarando.blogspot.com/"
+        },
+        {
+          "type": "snapchat",
+          "url": "https://www.snapchat.com/add/lalachuu"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "cast",
+      "name": "Lauren Tsai",
+      "season": {
+        "name": "Boys and Girls in the City",
+        "year": "2016 - 2017"
+      },
+      "image": "https://image.url.here",
+      "accounts": [
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/this_is_lala/"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/laurentsai98/"
+        },
+        {
+          "type": "twitter",
+          "url": "https://twitter.com/LaLaChuu"
+        },
+        {
+          "type": "twitter",
+          "url": "https://twitter.com/laurentsah"
+        },
+        {
+          "type": "blog",
+          "url": "http://lalarando.blogspot.com/"
+        },
+        {
+          "type": "snapchat",
+          "url": "https://www.snapchat.com/add/lalachuu"
+        }
+      ]
+    }
+  ]
+}

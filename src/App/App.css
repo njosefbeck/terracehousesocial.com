@@ -1,3 +1,35 @@
 .App {
-  
+  margin: 0 auto;
+  padding-left: 15px;
+  padding-right: 15px;
+  max-width: 600px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  line-height: 1.3;
+}
+
+.App p, .App form, .App div, .App h2 {
+  margin-bottom: 15px;
+}
+
+.App img {
+  max-width: 100%;
+}
+
+.App h1, .App h2 {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: 300;
+  line-height: 1;
+  text-transform: uppercase;
+}
+
+.App h1 {
+  font-size: 48px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.App h2 {
+  font-size: 36px;
 }
