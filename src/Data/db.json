@@ -46,38 +46,389 @@
     {
       "id": 3,
       "type": "cast",
-      "name": "Lauren Tsai",
+      "name": "Makoto Hasegawa",
       "season": {
-        "name": "Boys and Girls in the City",
+        "name": "Boys & Girls in the City",
+        "year": "2015 - 2016"
+      },
+      "image": "https://image.url.here",
+      "accounts": []
+    },
+    {
+      "id": 4,
+      "type": "cast",
+      "name": "Minori Nakada",
+      "season": {
+        "name": "Boys & Girls in the City",
+        "year": "2015 - 2016"
+      },
+      "image": "https://image.url.here",
+      "accounts": []
+    },
+    {
+      "id": 5,
+      "type": "cast",
+      "name": "Yuki Adachi",
+      "season": {
+        "name": "Boys & Girls in the City",
+        "year": "2015 - 2016"
+      },
+      "image": "https://image.url.here",
+      "accounts": []
+    },
+    {
+      "id": 6,
+      "type": "cast",
+      "name": "Mizuki Shida",
+      "season": {
+        "name": "Boys & Girls in the City",
+        "year": "2015 - 2016"
+      },
+      "image": "https://image.url.here",
+      "accounts": []
+    },
+    {
+      "id": 7,
+      "type": "cast",
+      "name": "Tatsuya Uchihara",
+      "season": {
+        "name": "Boys & Girls in the City",
+        "year": "2015 - 2016"
+      },
+      "image": "https://image.url.here",
+      "accounts": []
+    },
+    {
+      "id": 8,
+      "type": "cast",
+      "name": "Yuriko Hayata",
+      "season": {
+        "name": "Boys & Girls in the City",
+        "year": "2015 - 2016"
+      },
+      "image": "https://image.url.here",
+      "accounts": []
+    },
+    {
+      "id": 9,
+      "type": "cast",
+      "name": "Arman Bitaraf",
+      "season": {
+        "name": "Boys & Girls in the City",
+        "year": "2015 - 2016"
+      },
+      "image": "https://image.url.here",
+      "accounts": []
+    },
+    {
+      "id": 10,
+      "type": "cast",
+      "name": "Arisa Ohata",
+      "season": {
+        "name": "Boys & Girls in the City",
+        "year": "2015 - 2016"
+      },
+      "image": "https://image.url.here",
+      "accounts": []
+    },
+    {
+      "id": 11,
+      "type": "cast",
+      "name": "Hikaru Ota",
+      "season": {
+        "name": "Boys & Girls in the City",
+        "year": "2015 - 2016"
+      },
+      "image": "https://image.url.here",
+      "accounts": []
+    },
+    {
+      "id": 12,
+      "type": "cast",
+      "name": "Natsumi Saito",
+      "season": {
+        "name": "Boys & Girls in the City",
+        "year": "2015 - 2016"
+      },
+      "image": "https://image.url.here",
+      "accounts": []
+    },
+    {
+      "id": 13,
+      "type": "cast",
+      "name": "Misaki Tamori",
+      "season": {
+        "name": "Boys & Girls in the City",
+        "year": "2015 - 2016"
+      },
+      "image": "https://image.url.here",
+      "accounts": []
+    },
+    {
+      "id": 14,
+      "type": "cast",
+      "name": "Yuto Handa",
+      "season": {
+        "name": "Boys & Girls in the City",
+        "year": "2015 - 2016"
+      },
+      "image": "https://image.url.here",
+      "accounts": []
+    },
+    {
+      "id": 15,
+      "type": "cast",
+      "name": "Riko Nagai",
+      "season": {
+        "name": "Boys & Girls in the City",
+        "year": "2015 - 2016"
+      },
+      "image": "https://image.url.here",
+      "accounts": []
+    },
+    {
+      "id": 16,
+      "type": "cast",
+      "name": "Momoka Mitsunaga",
+      "season": {
+        "name": "Boys & Girls in the City",
+        "year": "2015 - 2016"
+      },
+      "image": "https://image.url.here",
+      "accounts": []
+    },
+    {
+      "id": 17,
+      "type": "cast",
+      "name": "Hayato Terashima",
+      "season": {
+        "name": "Boys & Girls in the City",
+        "year": "2015 - 2016"
+      },
+      "image": "https://image.url.here",
+      "accounts": []
+    },
+    {
+      "id": 18,
+      "type": "cast",
+      "name": "Yuki Byrnes",
+      "season": {
+        "name": "Boys & Girls in the City",
+        "year": "2015 - 2016"
+      },
+      "image": "https://image.url.here",
+      "accounts": []
+    },
+    {
+      "id": 19,
+      "type": "cast",
+      "name": "Masako Endo",
+      "season": {
+        "name": "Boys & Girls in the City",
+        "year": "2015 - 2016"
+      },
+      "image": "https://image.url.here",
+      "accounts": []
+    },
+    {
+      "id": 20,
+      "type": "cast",
+      "name": "Yuya Shibusawa",
+      "season": {
+        "name": "Aloha State",
         "year": "2016 - 2017"
       },
       "image": "https://image.url.here",
-      "accounts": [
-        {
-          "type": "instagram",
-          "url": "https://www.instagram.com/this_is_lala/"
-        },
-        {
-          "type": "instagram",
-          "url": "https://www.instagram.com/laurentsai98/"
-        },
-        {
-          "type": "twitter",
-          "url": "https://twitter.com/LaLaChuu"
-        },
-        {
-          "type": "twitter",
-          "url": "https://twitter.com/laurentsah"
-        },
-        {
-          "type": "blog",
-          "url": "http://lalarando.blogspot.com/"
-        },
-        {
-          "type": "snapchat",
-          "url": "https://www.snapchat.com/add/lalachuu"
-        }
-      ]
+      "accounts": []
+    },
+    {
+      "id": 21,
+      "type": "cast",
+      "name": "Avian Ku",
+      "season": {
+        "name": "Aloha State",
+        "year": "2016 - 2017"
+      },
+      "image": "https://image.url.here",
+      "accounts": []
+    },
+    {
+      "id": 22,
+      "type": "cast",
+      "name": "Eric De Mendonca",
+      "season": {
+        "name": "Aloha State",
+        "year": "2016 - 2017"
+      },
+      "image": "https://image.url.here",
+      "accounts": []
+    },
+    {
+      "id": 23,
+      "type": "cast",
+      "name": "Naomi Lorraine Frank",
+      "season": {
+        "name": "Aloha State",
+        "year": "2016 - 2017"
+      },
+      "image": "https://image.url.here",
+      "accounts": []
+    },
+    {
+      "id": 24,
+      "type": "cast",
+      "name": "Yusuke Aizawa",
+      "season": {
+        "name": "Aloha State",
+        "year": "2016 - 2017"
+      },
+      "image": "https://image.url.here",
+      "accounts": []
+    },
+    {
+      "id": 25,
+      "type": "cast",
+      "name": "Anna Haneishi",
+      "season": {
+        "name": "Aloha State",
+        "year": "2016 - 2017"
+      },
+      "image": "https://image.url.here",
+      "accounts": []
+    },
+    {
+      "id": 26,
+      "type": "cast",
+      "name": "Taishi Tamaki",
+      "season": {
+        "name": "Aloha State",
+        "year": "2016 - 2017"
+      },
+      "image": "https://image.url.here",
+      "accounts": []
+    },
+    {
+      "id": 27,
+      "type": "cast",
+      "name": "Guy Sato",
+      "season": {
+        "name": "Aloha State",
+        "year": "2016 - 2017"
+      },
+      "image": "https://image.url.here",
+      "accounts": []
+    },
+    {
+      "id": 28,
+      "type": "cast",
+      "name": "Niki Niwa",
+      "season": {
+        "name": "Aloha State",
+        "year": "2016 - 2017"
+      },
+      "image": "https://image.url.here",
+      "accounts": []
+    },
+    {
+      "id": 29,
+      "type": "cast",
+      "name": "Cheri Maria Sumikawa Lavoie",
+      "season": {
+        "name": "Aloha State",
+        "year": "2016 - 2017"
+      },
+      "image": "https://image.url.here",
+      "accounts": []
+    },
+    {
+      "id": 30,
+      "type": "cast",
+      "name": "Wesley Nakajima",
+      "season": {
+        "name": "Aloha State",
+        "year": "2016 - 2017"
+      },
+      "image": "https://image.url.here",
+      "accounts": []
+    },
+    {
+      "id": 31,
+      "type": "cast",
+      "name": "Jennifer Mila Hasegawa",
+      "season": {
+        "name": "Aloha State",
+        "year": "2016 - 2017"
+      },
+      "image": "https://image.url.here",
+      "accounts": []
+    },
+    {
+      "id": 32,
+      "type": "cast",
+      "name": "Chikako Fukuyama",
+      "season": {
+        "name": "Aloha State",
+        "year": "2016 - 2017"
+      },
+      "image": "https://image.url.here",
+      "accounts": []
+    },
+    {
+      "id": 33,
+      "type": "cast",
+      "name": "Mariko Nitta",
+      "season": {
+        "name": "Aloha State",
+        "year": "2016 - 2017"
+      },
+      "image": "https://image.url.here",
+      "accounts": []
+    },
+    {
+      "id": 34,
+      "type": "cast",
+      "name": "Ryo Sekikawa",
+      "season": {
+        "name": "Aloha State",
+        "year": "2016 - 2017"
+      },
+      "image": "https://image.url.here",
+      "accounts": []
+    },
+    {
+      "id": 35,
+      "type": "commentator",
+      "name": "Reina Triendl",
+      "image": "https://image.url.here",
+      "accounts": []
+    },
+    {
+      "id": 36,
+      "type": "commentator",
+      "name": "Yoshimi Tokui",
+      "image": "https://image.url.here",
+      "accounts": []
+    },
+    {
+      "id": 37,
+      "type": "commentator",
+      "name": "Azusa Babazono",
+      "image": "https://image.url.here",
+      "accounts": []
+    },
+    {
+      "id": 38,
+      "type": "commentator",
+      "name": "Ryota Yamasato",
+      "image": "https://image.url.here",
+      "accounts": []
+    },
+    {
+      "id": 39,
+      "type": "commentator",
+      "name": "Kentaro",
+      "image": "https://image.url.here",
+      "accounts": []
     }
   ]
 }
