@@ -27,7 +27,7 @@ class App extends Component {
     const newState = {
       groups: [{
         title: "Search Results",
-        members: client.searchMembersByName(value)
+        members: client.searchMembersByEnglishName(value)
       }]
     };
 
@@ -51,6 +51,7 @@ class App extends Component {
         <Header />
         <Search handleSearchChange={this.handleSearchChange} />
         {groups}
+        <Footer />
       </div>
     );
   }
@@ -60,8 +61,16 @@ const Header = (props) => {
   return (
     <header>
       <h1>Terrace House Social</h1>
-      <p>Click on a Terrace House commentator or cast member below to see their social media and other online profiles. Have an update to the list? Feel free to reach out. Please note: we are in no way affiliated with the show!</p>
+      <p>Below you'll find social media accounts for commentators and cast from the Netflix&trade; seasons of Terrace House&trade;. Have an update to the list? Feel free to <a href="https://twitter.com/terracesocial" target="_blank">reach out via Twitter</a> or email at hello@terracehousesocial.com. Please note: we are in no way affiliated with the show!</p>
     </header>
+  );
+};
+
+const Footer = (props) => {
+  return (
+    <footer>
+      <p>Made with <i className="fa fa-heart"></i> by <a href="https://twobeasts.co" target="_blank">Two Beasts</a>.<br/>All images and information copyright to their respective owners.</p>
+    </footer>
   );
 };
 

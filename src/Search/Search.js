@@ -17,7 +17,7 @@ class Search extends Component {
       <form className="Search" onSubmit={this.handleSubmit}>
         <label>
           <span>Search:</span>
-          <input value={this.state.value} onChange={(e) => this.handleChange(e)} placeholder="Type a name to find them in the list below" />
+          <input value={this.state.value} onChange={(e) => this.handleChange(e)} placeholder="Type an English name to find them in the list below" />
         </label>
       </form>
     );

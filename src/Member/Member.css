@@ -40,8 +40,12 @@
   width: 350%;
 }
 
-.Member .member-information-container .member-name {
+.Member .member-information-container .member-name-english {
   font-weight: 700;
   text-transform: uppercase;
-  margin-bottom: 5px;
+}
+
+.Member .member-information-container .member-name-japanese {
+  display: block;
+  margin-bottom: 8px;
 }

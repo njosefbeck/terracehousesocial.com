@@ -13,8 +13,8 @@ const client = {
     return json.members.find(member => member.id === id);
   },
 
-  getMemberByName(name) {
-    return json.members.find(member => member.name === name);
+  getMemberByEnglishName(name) {
+    return json.members.find(member => member.name.english === name);
   },
 
   getAllSeasons() {
@@ -29,7 +29,7 @@ const client = {
       .filter(cast => cast.season.name === seasonName);
   },
 
-  searchMembersByName(searchTerm) {
+  searchMembersByEnglishName(searchTerm) {
     const term = searchTerm
       .toUpperCase()
       .trim()
@@ -37,7 +37,7 @@ const client = {
       .join('');
 
     return json.members.filter(member => {
-      const name = member.name
+      const name = member.name.english
         .toUpperCase()
         .split(' ')
         .join('');
@@ -49,9 +49,9 @@ const client = {
 
   buildState() {
 
-    // Build collaborators object
-    const collaborators = {
-      title: "Collaborators",
+    // Build commentators object
+    const commentators = {
+      title: "Commentators",
       members: this.getAllCommentators()
     };
 
@@ -64,7 +64,7 @@ const client = {
       }
     });
 
-    return [collaborators, ...seasons];
+    return [commentators, ...seasons];
 
   }
 };

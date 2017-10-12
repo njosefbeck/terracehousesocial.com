@@ -9,4 +9,6 @@
 .Search input {
   width: 100%;
   padding: 10px 15px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
 }

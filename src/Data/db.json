@@ -3,14 +3,20 @@
     {
       "id": 1,
       "type": "commentator",
-      "name": "Yuu",
+      "name": {
+          "english": "Yuu",
+          "japanese": "江原由希子"
+        },
       "image": "https://picsum.photos/200/200?image=823",
       "accounts": []
     },
     {
       "id": 2,
       "type": "cast",
-      "name": "Lauren Tsai",
+      "name": {
+        "english": "Lauren Tsai",
+        "japanese": "ローレン・サイ"
+      },
       "season": {
         "name": "Aloha State",
         "year": "2016 - 2017"
@@ -52,7 +58,10 @@
     {
       "id": 3,
       "type": "cast",
-      "name": "Makoto Hasegawa",
+      "name": {
+        "english": "Makoto Hasegawa",
+        "japanese": "長谷川慎"
+      },
       "season": {
         "name": "Boys & Girls in the City",
         "year": "2015 - 2016"
@@ -74,7 +83,10 @@
     {
       "id": 4,
       "type": "cast",
-      "name": "Minori Nakada",
+      "name": {
+        "english": "Minori Nakada",
+        "japanese": "中田みのり"
+      },
       "season": {
         "name": "Boys & Girls in the City",
         "year": "2015 - 2016"
@@ -96,7 +108,10 @@
     {
       "id": 5,
       "type": "cast",
-      "name": "Yuki Adachi",
+      "name": {
+        "english": "Yuki Adachi",
+        "japanese": "安達雄基"
+      },
       "season": {
         "name": "Boys & Girls in the City",
         "year": "2015 - 2016"
@@ -118,7 +133,10 @@
     {
       "id": 6,
       "type": "cast",
-      "name": "Mizuki Shida",
+      "name": {
+        "english": "Mizuki Shida",
+        "japanese": "信太美月"
+      },
       "season": {
         "name": "Boys & Girls in the City",
         "year": "2015 - 2016"
@@ -145,7 +163,10 @@
     {
       "id": 7,
       "type": "cast",
-      "name": "Tatsuya Uchihara",
+      "name": {
+        "english": "Tatsuya Uchihara",
+        "japanese": "内原達也"
+      },
       "season": {
         "name": "Boys & Girls in the City",
         "year": "2015 - 2016"
@@ -162,7 +183,10 @@
     {
       "id": 8,
       "type": "cast",
-      "name": "Yuriko Hayata",
+      "name": {
+        "english": "Yuriko Hayata",
+        "japanese": "早田悠里子"
+      },
       "season": {
         "name": "Boys & Girls in the City",
         "year": "2015 - 2016"
@@ -184,7 +208,10 @@
     {
       "id": 9,
       "type": "cast",
-      "name": "Arman Bitaraf",
+      "name": {
+        "english": "Arman Bitaraf",
+        "japanese": "ビタラフ・アルマン"
+      },
       "season": {
         "name": "Boys & Girls in the City",
         "year": "2015 - 2016"
@@ -206,7 +233,10 @@
     {
       "id": 10,
       "type": "cast",
-      "name": "Arisa Ohata",
+      "name": {
+        "english": "Arisa Ohata",
+        "japanese": "大畑ありさ"
+      },
       "season": {
         "name": "Boys & Girls in the City",
         "year": "2015 - 2016"
@@ -228,7 +258,10 @@
     {
       "id": 11,
       "type": "cast",
-      "name": "Hikaru Ota",
+      "name": {
+        "english": "Hikaru Ota",
+        "japanese": "太田光る"
+      },
       "season": {
         "name": "Boys & Girls in the City",
         "year": "2015 - 2016"
@@ -250,7 +283,10 @@
     {
       "id": 12,
       "type": "cast",
-      "name": "Natsumi Saito",
+      "name": {
+        "english": "Natsumi Saito",
+        "japanese": "斎藤夏美"
+      },
       "season": {
         "name": "Boys & Girls in the City",
         "year": "2015 - 2016"
@@ -277,7 +313,10 @@
     {
       "id": 13,
       "type": "cast",
-      "name": "Misaki Tamori",
+      "name": {
+        "english": "Misaki Tamori",
+        "japanese": "田森美咲"
+      },
       "season": {
         "name": "Boys & Girls in the City",
         "year": "2015 - 2016"
@@ -299,7 +338,10 @@
     {
       "id": 14,
       "type": "cast",
-      "name": "Yuto Handa",
+      "name": {
+        "english": "Yuto Handa",
+        "japanese": "半田悠人"
+      },
       "season": {
         "name": "Boys & Girls in the City",
         "year": "2015 - 2016"
@@ -320,7 +362,10 @@
     {
       "id": 15,
       "type": "cast",
-      "name": "Riko Nagai",
+      "name": {
+        "english": "Riko Nagai",
+        "japanese": "永井理子"
+      },
       "season": {
         "name": "Boys & Girls in the City",
         "year": "2015 - 2016"
@@ -342,7 +387,10 @@
     {
       "id": 16,
       "type": "cast",
-      "name": "Momoka Mitsunaga",
+      "name": {
+        "english": "Momoka Mitsunaga",
+        "japanese": "光永百花"
+      },
       "season": {
         "name": "Boys & Girls in the City",
         "year": "2015 - 2016"
@@ -364,7 +412,10 @@
     {
       "id": 17,
       "type": "cast",
-      "name": "Hayato Terashima",
+      "name": {
+        "english": "Hayato Terashima",
+        "japanese": "寺島速人"
+      },
       "season": {
         "name": "Boys & Girls in the City",
         "year": "2015 - 2016"
@@ -386,7 +437,10 @@
     {
       "id": 18,
       "type": "cast",
-      "name": "Yuki Byrnes",
+      "name": {
+        "english": "Yuuki Byrnes",
+        "japanese": "バーンズ勇気"
+      },
       "season": {
         "name": "Boys & Girls in the City",
         "year": "2015 - 2016"
@@ -402,7 +456,10 @@
     {
       "id": 19,
       "type": "cast",
-      "name": "Masako Endo",
+      "name": {
+        "english": "Masako Endo",
+        "japanese": "遠藤政子"
+      },
       "season": {
         "name": "Boys & Girls in the City",
         "year": "2015 - 2016"
@@ -417,7 +474,7 @@
         {
           "type": "twitter",
           "icon": "twitter",
-          "url": "https://twitter.com/hayato88t"
+          "url": "https://twitter.com/endo_masako0809"
         },
         {
           "type": "blog",
@@ -429,200 +486,504 @@
     {
       "id": 20,
       "type": "cast",
-      "name": "Yuya Shibusawa",
+      "name": {
+        "english": "Yuya Shibusawa",
+        "japanese": "澁澤侑哉"
+      },
       "season": {
         "name": "Aloha State",
         "year": "2016 - 2017"
       },
       "image": "https://picsum.photos/200/200?image=823",
-      "accounts": []
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://www.instagram.com/yuya__shibusawa/"
+        }
+      ]
     },
     {
       "id": 21,
       "type": "cast",
-      "name": "Avian Ku",
+      "name": {
+        "english": "Avian Ku",
+        "japanese": "エビアン・クー"
+      },
       "season": {
         "name": "Aloha State",
         "year": "2016 - 2017"
       },
       "image": "https://picsum.photos/200/200?image=823",
-      "accounts": []
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://www.instagram.com/aviankoo/"
+        },
+        {
+          "type": "brand blog",
+          "icon": "pencil",
+          "url": "https://88tees.com/blog/"
+        }
+      ]
     },
     {
       "id": 22,
       "type": "cast",
-      "name": "Eric De Mendonca",
+      "name": {
+        "english": "Eric De Mendonca",
+        "japanese": "エリック デ メンドンサ"
+      },
       "season": {
         "name": "Aloha State",
         "year": "2016 - 2017"
       },
       "image": "https://picsum.photos/200/200?image=823",
-      "accounts": []
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://www.instagram.com/eric_de_mendonca/"
+        },
+        {
+          "type": "tumblr",
+          "icon": "tumblr",
+          "url": "http://mondocraft.tumblr.com/"
+        }
+      ]
     },
     {
       "id": 23,
       "type": "cast",
-      "name": "Naomi Lorraine Frank",
+      "name": {
+        "english": "Naomi Lorraine Frank",
+        "japanese": "フランク奈緒美ロレイン"
+      },
       "season": {
         "name": "Aloha State",
         "year": "2016 - 2017"
       },
       "image": "https://picsum.photos/200/200?image=823",
-      "accounts": []
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://www.instagram.com/naomilorrainefrank/"
+        },
+        {
+          "type": "twitter",
+          "icon": "twitter",
+          "url": "https://twitter.com/naomi_loraine"
+        },
+        {
+          "type": "blog",
+          "icon": "pencil",
+          "url": "https://ameblo.jp/naomi-loraine"
+        }
+      ]
     },
     {
       "id": 24,
       "type": "cast",
-      "name": "Yusuke Aizawa",
+      "name": {
+        "english": "Yusuke Aizawa",
+        "japanese": "鮎澤悠介"
+      },
       "season": {
         "name": "Aloha State",
         "year": "2016 - 2017"
       },
       "image": "https://picsum.photos/200/200?image=823",
-      "accounts": []
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://www.instagram.com/edenkai_official/"
+        },
+        {
+          "type": "twitter",
+          "icon": "twitter",
+          "url": "https://twitter.com/edenkaiofficial"
+        },
+        {
+          "type": "facebook",
+          "icon": "facebook",
+          "url": "https://www.facebook.com/EdenKaiOfficial/"
+        },
+        {
+          "type": "youtube",
+          "icon": "youtube",
+          "url": "https://www.youtube.com/edenkaiofficial"
+        },
+        {
+          "type": "website",
+          "icon": "file-text",
+          "url": "http://edenkai.com/"
+        }
+      ]
     },
     {
       "id": 25,
       "type": "cast",
-      "name": "Anna Haneishi",
+      "name": {
+        "english": "Anna Haneishi",
+        "japanese": "羽石杏奈"
+      },
       "season": {
         "name": "Aloha State",
         "year": "2016 - 2017"
       },
       "image": "https://picsum.photos/200/200?image=823",
-      "accounts": []
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://www.instagram.com/hawaiianna913/"
+        },
+        {
+          "type": "twitter",
+          "icon": "twitter",
+          "url": "https://twitter.com/hawaiianna913"
+        },
+        {
+          "type": "blog",
+          "icon": "pencil",
+          "url": "http://www.dclog.jp/hawaiianna913"
+        }
+      ]
     },
     {
       "id": 26,
       "type": "cast",
-      "name": "Taishi Tamaki",
+      "name": {
+        "english": "Taishi Tamaki",
+        "japanese": "玉城大志"
+      },
       "season": {
         "name": "Aloha State",
         "year": "2016 - 2017"
       },
       "image": "https://picsum.photos/200/200?image=823",
-      "accounts": []
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://www.instagram.com/taishi.0621/"
+        },
+        {
+          "type": "twitter",
+          "icon": "twitter",
+          "url": "https://twitter.com/taishi0621"
+        },
+        {
+          "type": "blog",
+          "icon": "pencil",
+          "url": "https://ameblo.jp/boys-be-ambitious-taishi/"
+        },
+        {
+          "type": "facebook",
+          "icon": "facebook",
+          "url": "https://www.facebook.com/boys.be.ambitious.taishi"
+        },
+        {
+          "type": "youtube",
+          "icon": "youtube",
+          "url": "https://www.youtube.com/channel/UCpNZa73y6b6bYarp--qL_uw/videos"
+        }
+      ]
     },
     {
       "id": 27,
       "type": "cast",
-      "name": "Guy Sato",
+      "name": {
+        "english": "Guy Sato",
+        "japanese": "佐藤魁"
+      },
       "season": {
         "name": "Aloha State",
         "year": "2016 - 2017"
       },
       "image": "https://picsum.photos/200/200?image=823",
-      "accounts": []
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://www.instagram.com/guykid__/"
+        }
+      ]
     },
     {
       "id": 28,
       "type": "cast",
-      "name": "Niki Niwa",
+      "name": {
+        "english": "Niki Niwa",
+        "japanese": "丹羽仁希"
+      },
       "season": {
         "name": "Aloha State",
         "year": "2016 - 2017"
       },
       "image": "https://picsum.photos/200/200?image=823",
-      "accounts": []
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://www.instagram.com/__niki22/"
+        },
+        {
+          "type": "twitter",
+          "icon": "twitter",
+          "url": "https://twitter.com/i__am_niki"
+        }
+      ]
     },
     {
       "id": 29,
       "type": "cast",
-      "name": "Cheri Maria Sumikawa Lavoie",
+      "name": {
+        "english": "Cheri Maria Sumikawa Lavoie",
+        "japanese": "シェリ・マリア・澄川・ラボエ"
+      },
       "season": {
         "name": "Aloha State",
         "year": "2016 - 2017"
       },
       "image": "https://picsum.photos/200/200?image=823",
-      "accounts": []
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://www.instagram.com/cherilovelavoie/"
+        }
+      ]
     },
     {
       "id": 30,
       "type": "cast",
-      "name": "Wesley Nakajima",
+      "name": {
+        "english": "Wesley Nakajima",
+        "japanese": "中嶋ウェスリー"
+      },
       "season": {
         "name": "Aloha State",
         "year": "2016 - 2017"
       },
       "image": "https://picsum.photos/200/200?image=823",
-      "accounts": []
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://www.instagram.com/wez_nakajima_/"
+        },
+        {
+          "type": "website",
+          "icon": "file-text",
+          "url": "http://weznakajima.com/"
+        },
+        {
+          "type": "blog",
+          "icon": "pencil",
+          "url": "https://ameblo.jp/weznakajima/"
+        }
+      ]
     },
     {
       "id": 31,
       "type": "cast",
-      "name": "Jennifer Mila Hasegawa",
+      "name": {
+        "english": "Jennifer Mila Hasegawa",
+        "japanese": "長谷川 ジェニファー ミラ"
+      },
       "season": {
         "name": "Aloha State",
         "year": "2016 - 2017"
       },
       "image": "https://picsum.photos/200/200?image=823",
-      "accounts": []
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://www.instagram.com/jenmilaa/"
+        },
+        {
+          "type": "twitter",
+          "icon": "twitter",
+          "url": "https://twitter.com/jenmilaa"
+        },
+        {
+          "type": "youtube",
+          "icon": "youtube",
+          "url": "https://www.youtube.com/channel/UCA41FHuDbWBLQ7HceDvDPJg"
+        }
+      ]
     },
     {
       "id": 32,
       "type": "cast",
-      "name": "Chikako Fukuyama",
+      "name": {
+        "english": "Chikako Fukuyama",
+        "japanese": "福山智可子"
+      },
       "season": {
         "name": "Aloha State",
         "year": "2016 - 2017"
       },
       "image": "https://picsum.photos/200/200?image=823",
-      "accounts": []
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://www.instagram.com/chikako808/"
+        },
+        {
+          "type": "blog",
+          "icon": "pencil",
+          "url": "https://ameblo.jp/alohafromchikako/"
+        }
+      ]
     },
     {
       "id": 33,
       "type": "cast",
-      "name": "Mariko Nitta",
+      "name": {
+        "english": "Mariko Nitta",
+        "japanese": "新田満里子"
+      },
       "season": {
         "name": "Aloha State",
         "year": "2016 - 2017"
       },
       "image": "https://picsum.photos/200/200?image=823",
-      "accounts": []
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://www.instagram.com/mariko_nitta/"
+        }
+      ]
     },
     {
       "id": 34,
       "type": "cast",
-      "name": "Ryo Sekikawa",
+      "name": {
+        "english": "Ryo Sekikawa",
+        "japanese": "関川良"
+      },
       "season": {
         "name": "Aloha State",
         "year": "2016 - 2017"
       },
       "image": "https://picsum.photos/200/200?image=823",
-      "accounts": []
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://www.instagram.com/ryosekikawa/"
+        }
+      ]
     },
     {
       "id": 35,
       "type": "commentator",
-      "name": "Reina Triendl",
+      "name": {
+        "english": "Reina Triendl",
+        "japanese": "トリンドル 玲奈"
+      },
       "image": "https://picsum.photos/200/200?image=823",
-      "accounts": []
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://www.instagram.com/toritori0123/"
+        },
+        {
+          "type": "twitter",
+          "icon": "twitter",
+          "url": "https://twitter.com/triendlreina"
+        },
+        {
+          "type": "website and blog",
+          "icon": "file-text",
+          "url": "http://reina-triendl.jp/"
+        },
+        {
+          "type": "blog",
+          "icon": "pencil",
+          "url": "https://ameblo.jp/reina-triendle/"
+        }
+      ]
     },
     {
       "id": 36,
       "type": "commentator",
-      "name": "Yoshimi Tokui",
+      "name": {
+        "english": "Yoshimi Tokui",
+        "japanese": "徳井義実"
+      },
       "image": "https://picsum.photos/200/200?image=823",
-      "accounts": []
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://www.instagram.com/tokui_yoshimi/"
+        },
+        {
+          "type": "twitter",
+          "icon": "twitter",
+          "url": "https://twitter.com/tokuiyoshimi"
+        }
+      ]
     },
     {
       "id": 37,
       "type": "commentator",
-      "name": "Azusa Babazono",
+      "name": {
+        "english": "Azusa Babazono",
+        "japanese": "馬場園梓"
+      },
       "image": "https://picsum.photos/200/200?image=823",
-      "accounts": []
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://www.instagram.com/babazonoazusa/"
+        },
+        {
+          "type": "twitter",
+          "icon": "twitter",
+          "url": "https://twitter.com/babazonoazusa"
+        }
+      ]
     },
     {
       "id": 38,
       "type": "commentator",
-      "name": "Ryota Yamasato",
+      "name": {
+        "english": "Ryota Yamasato",
+        "japanese": "山里亮太"
+      },
       "image": "https://picsum.photos/200/200?image=823",
-      "accounts": []
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://www.instagram.com/ryotayamasato/"
+        },
+        {
+          "type": "twitter",
+          "icon": "twitter",
+          "url": "https://twitter.com/yama414"
+        }
+      ]
     },
     {
       "id": 39,
       "type": "commentator",
-      "name": "Kentaro",
+      "name": {
+        "english": "Kentaro",
+        "japanese": "健太郎"
+      },
       "image": "https://picsum.photos/200/200?image=823",
       "accounts": []
     }

@@ -12,6 +12,10 @@
   margin-bottom: 15px;
 }
 
+.App p {
+  line-height: 1.5;
+}
+
 .App img {
   max-width: 100%;
 }
@@ -36,9 +40,32 @@
 
 .App a {
   color: rgba(0, 144, 64, 0.8);
+  font-weight: 700;
+  text-decoration: none;
   transition: color 0.3s ease-in-out;
 }
 
 .App a:hover {
   color: rgba(0, 144, 64, 1);
+}
+
+.App a:visited {
+  color: rgba(0, 144, 64, 1);
+}
+
+.App footer p {
+  font-size: 13px;
+  text-align: center;
+}
+
+.App footer p i {
+  color: red;
+}
+
+.App *:focus {
+  outline: 1px solid rgb(0, 144, 64);
+}
+
+.App *::selection {
+  background: rgba(0, 144, 64, 0.3);
 }
