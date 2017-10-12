@@ -22,7 +22,7 @@ class Member extends Component {
     return (
       <li className="Member">
         <div className="member-image-container">
-          <img className="member-image" src={this.getImage(this.props.image)} alt={this.props.name} />
+          <img className="member-image" src={this.getImage(this.props.image)} alt={this.props.name.english} />
         </div>
         <div className="member-information-container">
           <h3 className="member-name-english">{this.props.name.english}</h3>
