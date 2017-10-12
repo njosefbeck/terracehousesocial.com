@@ -7,11 +7,12 @@ class Member extends Component {
 
   getImage = (imageFileName) => {
     let image = "";
+    let date = new Date();
     
     if (!imageFileName) {
       image = "https://picsum.photos/200/200?image=823";
     } else {
-      image = `${process.env.PUBLIC_URL}/images/members/${imageFileName}`;
+      image = `${process.env.PUBLIC_URL}/images/members/${imageFileName}?${date.getTime()}`;
     }
 
     return image;
