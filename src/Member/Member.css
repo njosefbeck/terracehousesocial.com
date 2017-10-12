@@ -1,0 +1,47 @@
+.Member {
+  display: block;
+  margin-top: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  min-height: 100px;
+}
+
+@media all and (min-width: 500px) {
+  .Member {
+    display: inline-block;
+    vertical-align: top;
+    width: 50%;
+  }
+}
+
+.Member .member-image-container {
+  margin-bottom: 0;
+}
+
+
+.Member .member-image-container .member-image {
+  max-width: 75px;
+  border-radius: 100%;
+  float: left;
+  margin-right: 5px;
+}
+
+.Member .member-information-container {
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-left: 80px;
+  font-size: 14px;
+}
+
+.Member.active .member-information-container {
+  top: 100%;
+  visibility: visible;
+  opacity: 1;
+  width: 350%;
+}
+
+.Member .member-information-container .member-name {
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-bottom: 5px;
+}

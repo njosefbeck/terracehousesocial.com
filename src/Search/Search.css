@@ -1,0 +1,12 @@
+.Search {
+  margin-bottom: 30px;
+}
+
+.Search label span {
+  display: none;
+}
+
+.Search input {
+  width: 100%;
+  padding: 10px 15px;
+}

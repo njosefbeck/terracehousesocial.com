@@ -2,6 +2,9 @@ import React, { Component } from 'react';
 import './App.css';
 import client from '../Data/client';
 
+import Search from '../Search/Search';
+import Group from '../Group/Group';
+
 class App extends Component {
   constructor(props) {
     super(props);
@@ -11,8 +14,27 @@ class App extends Component {
     }
   }
 
-  render() {
+  handleSearchChange = (value) => {
+    if (!value.length) {
 
+      this.setState({
+        groups: client.buildState()
+      });
+
+      return;
+    }
+
+    const newState = {
+      groups: [{
+        title: "Search Results",
+        members: client.searchMembersByName(value)
+      }]
+    };
+
+    this.setState(newState);
+  }
+
+  render() {
     const groups = this.state.groups.map(group => {
       return (
         <Group
@@ -27,7 +49,7 @@ class App extends Component {
     return (
       <div className="App">
         <Header />
-        <Search />
+        <Search handleSearchChange={this.handleSearchChange} />
         {groups}
       </div>
     );
@@ -43,58 +65,5 @@ const Header = (props) => {
   );
 };
 
-class Search extends Component {
-  render() {
-    return (
-      <form>
-        Search goes here
-      </form>
-    );
-  }
-}
-
-class Group extends Component {
-  render() {
-    return (
-      <div className="Group">
-        <span>{this.props.year}</span>
-        <h2>{this.props.title}</h2>
-        <Members members={this.props.members} />
-      </div>
-    );
-  }
-}
-
-class Members extends Component {
-  render() {
-    const members = this.props.members.map(member => {
-      return (
-        <Member
-          key={member.id}
-          id={member.id}
-          name={member.name}
-          image={member.image}
-          accounts={member.accounts}
-        />
-      );
-    });
-    
-    return (
-      <ul className="Members">
-        {members}
-      </ul>
-    );
-  }
-}
-
-class Member extends Component {
-  render() {
-    return (
-      <li className="Member">
-        I am a member.
-      </li>
-    );
-  }
-}
 
 export default App;

@@ -1,0 +1,15 @@
+.Icon {
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+
+.Icon a span {
+  display: none;
+}
+
+.Icon a i {
+  font-weight: 700;
+}

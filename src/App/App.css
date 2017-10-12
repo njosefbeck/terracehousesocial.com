@@ -8,7 +8,7 @@
   line-height: 1.3;
 }
 
-.App p, .App form, .App div, .App h2 {
+.App p, .App h2 {
   margin-bottom: 15px;
 }
 
@@ -32,4 +32,13 @@
 
 .App h2 {
   font-size: 36px;
+}
+
+.App a {
+  color: rgba(0, 144, 64, 0.8);
+  transition: color 0.3s ease-in-out;
+}
+
+.App a:hover {
+  color: rgba(0, 144, 64, 1);
 }

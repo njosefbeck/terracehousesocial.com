@@ -29,8 +29,26 @@ const client = {
       .filter(cast => cast.season.name === seasonName);
   },
 
+  searchMembersByName(searchTerm) {
+    const term = searchTerm
+      .toUpperCase()
+      .trim()
+      .split(' ')
+      .join('');
+
+    return json.members.filter(member => {
+      const name = member.name
+        .toUpperCase()
+        .split(' ')
+        .join('');
+
+      return name.includes(term);
+    });
+
+  },
+
   buildState() {
-    
+
     // Build collaborators object
     const collaborators = {
       title: "Collaborators",
