@@ -61,7 +61,7 @@ const Header = (props) => {
   return (
     <header>
       <h1>Terrace House Social</h1>
-      <p>Below you'll find social media accounts for commentators and cast from the Netflix&trade; seasons of Terrace House&trade;. Have an update to the list? Feel free to <a href="https://twitter.com/terracesocial" target="_blank">reach out via Twitter</a> or email at hello@terracehousesocial.com. Please note: we are in no way affiliated with the show!</p>
+      <p>Below you'll find social media accounts for commentators and cast from the Netflix&trade; seasons of Terrace House&trade;. Have an update to the list? Feel free to <a href="https://twitter.com/terracesocial" target="_blank">reach out via Twitter</a> or at <a href="mailto:hello@terracehousesocial.com">hello@terracehousesocial.com</a>. Please note: we are in no way affiliated with the show!</p>
     </header>
   );
 };
