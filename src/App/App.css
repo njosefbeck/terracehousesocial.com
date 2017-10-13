@@ -69,3 +69,8 @@
 .App *::selection {
   background: rgba(0, 144, 64, 0.3);
 }
+
+.App .update {
+  font-size: 13px;
+  font-weight: 700;
+}
