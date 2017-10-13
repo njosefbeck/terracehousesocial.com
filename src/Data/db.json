@@ -26,12 +26,12 @@
         {
           "type": "instagram",
           "icon": "instagram",
-          "url": "https://www.instagram.com/this_is_lala/"
+          "url": "http://instagram.com/laurentsaiart"
         },
         {
           "type": "instagram",
           "icon": "instagram",
-          "url": "https://www.instagram.com/laurentsai98/"
+          "url": "http://instagram.com/laurentsai"
         },
         {
           "type": "twitter",
@@ -525,6 +525,16 @@
           "type": "brand blog",
           "icon": "pencil",
           "url": "https://88tees.com/blog/"
+        },
+        {
+          "type": "personal blog",
+          "icon": "pencil",
+          "url": "https://lineblog.me/avian"
+        },
+        {
+          "type": "twitter",
+          "icon": "twitter",
+          "url": "https://twitter.com/aviankoo"
         }
       ]
     },
