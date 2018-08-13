@@ -70,7 +70,7 @@ const Header = (props) => {
 const Footer = (props) => {
   return (
     <footer>
-      <p>Made with <i className="fa fa-heart"></i> by <a href="https://twobeasts.co" rel="noopener noreferrer" target="_blank">Two Beasts</a>.<br/>All images and information copyright to their respective owners.</p>
+      <p>Made with <i className="fa fa-heart"></i> by <a href="https://njosefbeck.com" rel="noopener noreferrer" target="_blank">njosefbeck</a>.<br/>All images and information copyright to their respective owners.</p>
     </footer>
   );
 };
