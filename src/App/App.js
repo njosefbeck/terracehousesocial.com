@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
 import './App.css';
 import client from '../Data/client';
-
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faHeart } from '@fortawesome/free-solid-svg-icons';
 import Search from '../Search/Search';
 import Group from '../Group/Group';
 
@@ -70,7 +71,7 @@ const Header = (props) => {
 const Footer = (props) => {
   return (
     <footer>
-      <p>Made with <i className="fa fa-heart"></i> by <a href="https://njosefbeck.com" rel="noopener noreferrer" target="_blank">njosefbeck</a>.<br/>All images and information copyright to their respective owners.</p>
+      <p>Made with love by {<FontAwesomeIcon icon={faHeart} />} <a href="https://njosefbeck.com" rel="noopener noreferrer" target="_blank">njosefbeck</a>.<br/>All images and information copyright to their respective owners.</p>
     </footer>
   );
 };
