@@ -4,10 +4,10 @@
       "id": 1,
       "type": "commentator",
       "name": {
-          "english": "Yuu",
+          "english": "YOU",
           "japanese": "江原由希子"
         },
-      "image": "yuu.jpg",
+      "image": "yuu",
       "accounts": []
     },
     {
@@ -21,7 +21,7 @@
         "name": "Aloha State",
         "year": "2016 - 2017"
       },
-      "image": "lauren_tsai.jpg",
+      "image": "lauren_tsai",
       "accounts": [
         {
           "type": "instagram",
@@ -61,7 +61,7 @@
         "name": "Boys & Girls in the City",
         "year": "2015 - 2016"
       },
-      "image": "makoto_hasegawa.jpg",
+      "image": "makoto_hasegawa",
       "accounts": [
         {
           "type": "instagram",
@@ -86,7 +86,7 @@
         "name": "Boys & Girls in the City",
         "year": "2015 - 2016"
       },
-      "image": "minori_nakada.jpg",
+      "image": "minori_nakada",
       "accounts": [
         {
           "type": "instagram",
@@ -111,7 +111,7 @@
         "name": "Boys & Girls in the City",
         "year": "2015 - 2016"
       },
-      "image": "yuki_adachi.jpg",
+      "image": "yuki_adachi",
       "accounts": [
         {
           "type": "instagram",
@@ -136,7 +136,7 @@
         "name": "Boys & Girls in the City",
         "year": "2015 - 2016"
       },
-      "image": "mizuki_shida.jpg",
+      "image": "mizuki_shida",
       "accounts": [
         {
           "type": "instagram",
@@ -166,7 +166,7 @@
         "name": "Boys & Girls in the City",
         "year": "2015 - 2016"
       },
-      "image": "tatsuya_uchihara.jpg",
+      "image": "tatsuya_uchihara",
       "accounts": [
         {
           "type": "instagram",
@@ -174,9 +174,19 @@
           "url": "https://www.instagram.com/tatsuyauchihara/"
         },
         {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://www.instagram.com/uchimake/"
+        },
+        {
           "type": "twitter",
           "icon": "twitter",
           "url": "https://twitter.com/tatsuyastyle"
+        },
+        {
+          "type": "website",
+          "icon": "file-text",
+          "url": "https://tatsuyauchihara.com/"
         }
       ]
     },
@@ -191,7 +201,7 @@
         "name": "Boys & Girls in the City",
         "year": "2015 - 2016"
       },
-      "image": "yuriko_hayata.jpg",
+      "image": "yuriko_hayata",
       "accounts": [
         {
           "type": "instagram",
@@ -216,7 +226,7 @@
         "name": "Boys & Girls in the City",
         "year": "2015 - 2016"
       },
-      "image": "arman_bitaraf.jpg",
+      "image": "arman_bitaraf",
       "accounts": [
         {
           "type": "instagram",
@@ -241,7 +251,7 @@
         "name": "Boys & Girls in the City",
         "year": "2015 - 2016"
       },
-      "image": "arisa_ohata.jpg",
+      "image": "arisa_ohata",
       "accounts": [
         {
           "type": "instagram",
@@ -249,9 +259,24 @@
           "url": "https://www.instagram.com/ohataarisa/"
         },
         {
+          "type": "twitter",
+          "icon": "twitter",
+          "url": "https://twitter.com/arisaohata"
+        },
+        {
           "type": "brand website",
           "icon": "file-text",
           "url": "http://maisoncouleur.jp/"
+        },
+        {
+          "type": "blog",
+          "icon": "pencil",
+          "url": "https://ameblo.jp/tkmars/"
+        },
+        {
+          "type": "store",
+          "icon": "file-text",
+          "url": "https://store.sariatokyo.jp/"
         }
       ]
     },
@@ -266,7 +291,7 @@
         "name": "Boys & Girls in the City",
         "year": "2015 - 2016"
       },
-      "image": "hikaru_ota.jpg",
+      "image": "hikaru_ota",
       "accounts": [
         {
           "type": "instagram",
@@ -291,7 +316,7 @@
         "name": "Boys & Girls in the City",
         "year": "2015 - 2016"
       },
-      "image": "natsumi_saito.jpg",
+      "image": "natsumi_saito",
       "accounts": [
         {
           "type": "instagram",
@@ -321,19 +346,8 @@
         "name": "Boys & Girls in the City",
         "year": "2015 - 2016"
       },
-      "image": "misaki_tamori.jpg",
-      "accounts": [
-        {
-          "type": "instagram",
-          "icon": "instagram",
-          "url": "https://www.instagram.com/tamorimisaki/"
-        },
-        {
-          "type": "twitter",
-          "icon": "twitter",
-          "url": "https://twitter.com/tamori_misaki"
-        }
-      ]
+      "image": "misaki_tamori",
+      "accounts": []
     },
     {
       "id": 14,
@@ -346,9 +360,9 @@
         "name": "Boys & Girls in the City",
         "year": "2015 - 2016"
       },
-      "image": "yuto_handa.jpg",
+      "image": "yuto_handa",
       "accounts": [
-      {
+        {
           "type": "instagram",
           "icon": "instagram",
           "url": "https://www.instagram.com/yutohanda/"
@@ -356,8 +370,9 @@
         {
           "type": "website",
           "icon": "file-text",
-          "url": "https://www.maison11.jp/"
-        }]
+          "url": "https://www.delicious.ooo/"
+        }
+      ]
     },
     {
       "id": 15,
@@ -370,7 +385,7 @@
         "name": "Boys & Girls in the City",
         "year": "2015 - 2016"
       },
-      "image": "riko_nagai.jpg",
+      "image": "riko_nagai",
       "accounts": [
         {
           "type": "instagram",
@@ -395,7 +410,7 @@
         "name": "Boys & Girls in the City",
         "year": "2015 - 2016"
       },
-      "image": "momoka_mitsunaga.jpg",
+      "image": "momoka_mitsunaga",
       "accounts": [
         {
           "type": "instagram",
@@ -420,7 +435,7 @@
         "name": "Boys & Girls in the City",
         "year": "2015 - 2016"
       },
-      "image": "hayato_terashima.jpg",
+      "image": "hayato_terashima",
       "accounts": [
         {
           "type": "instagram",
@@ -428,9 +443,19 @@
           "url": "https://www.instagram.com/hayato_terashima/"
         },
         {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://www.instagram.com/ice_pasta/"
+        },
+        {
           "type": "twitter",
           "icon": "twitter",
           "url": "https://twitter.com/hayato88t"
+        },
+        {
+          "type": "website",
+          "icon": "file-text",
+          "url": "http://hayatoterashima8.wixsite.com/mysite"
         }
       ]
     },
@@ -445,13 +470,24 @@
         "name": "Boys & Girls in the City",
         "year": "2015 - 2016"
       },
-      "image": "yuuki_byrnes.jpg",
+      "image": "yuuki_byrnes",
       "accounts": [
-      {
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://www.instagram.com/yuukibyrnes_official/"
+        },
+        {
           "type": "youtube",
           "icon": "youtube",
           "url": "https://www.youtube.com/channel/UCOsvnz_dgmzNBzr8KeHnT9A"
-        }]
+        },
+        {
+          "type": "website",
+          "icon": "file-text",
+          "url": "https://www.wayouteast1992.com/"
+        }
+      ]
     },
     {
       "id": 19,
@@ -464,7 +500,7 @@
         "name": "Boys & Girls in the City",
         "year": "2015 - 2016"
       },
-      "image": "masako_endo.jpg",
+      "image": "masako_endo",
       "accounts": [
         {
           "type": "instagram",
@@ -494,12 +530,17 @@
         "name": "Aloha State",
         "year": "2016 - 2017"
       },
-      "image": "yuya_shibusawa.jpg",
+      "image": "yuya_shibusawa",
       "accounts": [
         {
           "type": "instagram",
           "icon": "instagram",
           "url": "https://www.instagram.com/yuya__shibusawa/"
+        },
+        {
+          "type": "twitter",
+          "icon": "twitter",
+          "url": "https://twitter.com/Nasri_0120"
         }
       ]
     },
@@ -514,7 +555,7 @@
         "name": "Aloha State",
         "year": "2016 - 2017"
       },
-      "image": "avian_ku.jpg",
+      "image": "avian_ku",
       "accounts": [
         {
           "type": "instagram",
@@ -525,6 +566,11 @@
           "type": "brand blog",
           "icon": "pencil",
           "url": "https://88tees.com/blog/"
+        },
+        {
+          "type": "personal blog",
+          "icon": "pencil",
+          "url": "https://ameblo.jp/avian-ilaswim/"
         },
         {
           "type": "personal blog",
@@ -549,7 +595,7 @@
         "name": "Aloha State",
         "year": "2016 - 2017"
       },
-      "image": "eric_de_mendonca.jpg",
+      "image": "eric_de_mendonca",
       "accounts": [
         {
           "type": "instagram",
@@ -557,9 +603,19 @@
           "url": "https://www.instagram.com/eric_de_mendonca/"
         },
         {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://www.instagram.com/punchbowlcoffee/"
+        },
+        {
           "type": "tumblr",
           "icon": "tumblr",
           "url": "http://mondocraft.tumblr.com/"
+        },
+        {
+          "type": "website",
+          "icon": "file-text",
+          "url": "https://www.punchbowlcoffee.com"
         }
       ]
     },
@@ -574,7 +630,7 @@
         "name": "Aloha State",
         "year": "2016 - 2017"
       },
-      "image": "naomi_lorraine_frank.jpg",
+      "image": "naomi_lorraine_frank",
       "accounts": [
         {
           "type": "instagram",
@@ -604,7 +660,7 @@
         "name": "Aloha State",
         "year": "2016 - 2017"
       },
-      "image": "yusuke_aizawa.jpg",
+      "image": "yusuke_aizawa",
       "accounts": [
         {
           "type": "instagram",
@@ -644,7 +700,7 @@
         "name": "Aloha State",
         "year": "2016 - 2017"
       },
-      "image": "anna_haneishi.jpg",
+      "image": "anna_haneishi",
       "accounts": [
         {
           "type": "instagram",
@@ -674,7 +730,7 @@
         "name": "Aloha State",
         "year": "2016 - 2017"
       },
-      "image": "taishi_tamaki.jpg",
+      "image": "taishi_tamaki",
       "accounts": [
         {
           "type": "instagram",
@@ -714,7 +770,7 @@
         "name": "Aloha State",
         "year": "2016 - 2017"
       },
-      "image": "guy_sato.jpg",
+      "image": "guy_sato",
       "accounts": [
         {
           "type": "instagram",
@@ -734,7 +790,7 @@
         "name": "Aloha State",
         "year": "2016 - 2017"
       },
-      "image": "niki_niwa.jpg",
+      "image": "niki_niwa",
       "accounts": [
         {
           "type": "instagram",
@@ -759,7 +815,7 @@
         "name": "Aloha State",
         "year": "2016 - 2017"
       },
-      "image": "cheri_maria_sumikawa_lavoie.jpg",
+      "image": "cheri_maria_sumikawa_lavoie",
       "accounts": [
         {
           "type": "instagram",
@@ -779,7 +835,7 @@
         "name": "Aloha State",
         "year": "2016 - 2017"
       },
-      "image": "wesley_nakajima.jpg",
+      "image": "wesley_nakajima",
       "accounts": [
         {
           "type": "instagram",
@@ -809,7 +865,7 @@
         "name": "Aloha State",
         "year": "2016 - 2017"
       },
-      "image": "jennifer_mila_hasegawa.jpg",
+      "image": "jennifer_mila_hasegawa",
       "accounts": [
         {
           "type": "instagram",
@@ -839,7 +895,7 @@
         "name": "Aloha State",
         "year": "2016 - 2017"
       },
-      "image": "chikako_fukuyama.jpg",
+      "image": "chikako_fukuyama",
       "accounts": [
         {
           "type": "instagram",
@@ -850,6 +906,11 @@
           "type": "blog",
           "icon": "pencil",
           "url": "https://ameblo.jp/alohafromchikako/"
+        },
+        {
+          "type": "youtube",
+          "icon": "youtube",
+          "url": "https://www.youtube.com/channel/UChJTlso_SVU_R-v6VaX995w"
         }
       ]
     },
@@ -864,7 +925,7 @@
         "name": "Aloha State",
         "year": "2016 - 2017"
       },
-      "image": "mariko_nitta.jpg",
+      "image": "mariko_nitta",
       "accounts": [
         {
           "type": "instagram",
@@ -884,7 +945,7 @@
         "name": "Aloha State",
         "year": "2016 - 2017"
       },
-      "image": "ryo_sekikawa.jpg",
+      "image": "ryo_sekikawa",
       "accounts": [
         {
           "type": "instagram",
@@ -900,7 +961,7 @@
         "english": "Reina Triendl",
         "japanese": "トリンドル 玲奈"
       },
-      "image": "reina_triendl.jpg",
+      "image": "reina_triendl",
       "accounts": [
         {
           "type": "instagram",
@@ -931,7 +992,7 @@
         "english": "Yoshimi Tokui",
         "japanese": "徳井義実"
       },
-      "image": "yoshimi_tokui.jpg",
+      "image": "yoshimi_tokui",
       "accounts": [
         {
           "type": "instagram",
@@ -952,7 +1013,7 @@
         "english": "Azusa Babazono",
         "japanese": "馬場園梓"
       },
-      "image": "azusa_babazono.jpg",
+      "image": "azusa_babazono",
       "accounts": [
         {
           "type": "instagram",
@@ -973,7 +1034,7 @@
         "english": "Ryota Yamasato",
         "japanese": "山里亮太"
       },
-      "image": "ryota_yamasato.jpg",
+      "image": "ryota_yamasato",
       "accounts": [
         {
           "type": "instagram",
@@ -994,8 +1055,355 @@
         "english": "Kentaro",
         "japanese": "健太郎"
       },
-      "image": "kentaro.jpg",
-      "accounts": []
+      "image": "kentaro",
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://www.instagram.com/kentaro_official_/"
+        },
+        {
+          "type": "twitter",
+          "icon": "twitter",
+          "url": "https://twitter.com/kentaro_aoao"
+        },
+        {
+          "type": "website",
+          "icon": "file-text",
+          "url": "https://aoao-tt.co.jp/prof_kentaro.html"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "type": "commentator",
+      "name": {
+        "english": "Shono Hayama",
+        "japanese": "葉山奨之"
+      },
+      "image": "shono_hayama",
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://www.instagram.com/officialshonohayama/"
+        },
+        {
+          "type": "website",
+          "icon": "file-text",
+          "url": "http://tristone.co.jp/actors/hayama/"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "type": "cast",
+      "name": {
+        "english": "Ami Komuro",
+        "japanese": "小室安未"
+      },
+      "season": {
+        "name": "Opening New Doors",
+        "year": "2018 - "
+      },
+      "image": "ami_komuro",
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://www.instagram.com/ami_komuro/"
+        },
+        {
+          "type": "twitter",
+          "icon": "twitter",
+          "url": "https://twitter.com/ami_komuro"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "type": "cast",
+      "name": {
+        "english": "Yuudai Arai",
+        "japanese": "新井雄大"
+      },
+      "season": {
+        "name": "Opening New Doors",
+        "year": "2018 - "
+      },
+      "image": "yuudai_arai",
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://www.instagram.com/yuudai__arai/"
+        },
+        {
+          "type": "twitter",
+          "icon": "twitter",
+          "url": "https://twitter.com/bmxyuudaiarai"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "type": "cast",
+      "name": {
+        "english": "Mizuki Haruta",
+        "japanese": "治田みずき"
+      },
+      "season": {
+        "name": "Opening New Doors",
+        "year": "2018 - "
+      },
+      "image": "mizuki_haruta",
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://www.instagram.com/miju120/"
+        },
+        {
+          "type": "twitter",
+          "icon": "twitter",
+          "url": "https://twitter.com/miju_0120"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "type": "cast",
+      "name": {
+        "english": "Shion Okamoto",
+        "japanese": "岡本至恩"
+      },
+      "season": {
+        "name": "Opening New Doors",
+        "year": "2018 - "
+      },
+      "image": "shion_okamoto",
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://www.instagram.com/seanokmt/"
+        },
+        {
+          "type": "twitter",
+          "icon": "twitter",
+          "url": "https://twitter.com/0113Sean"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "type": "cast",
+      "name": {
+        "english": "Tsubasa Sato",
+        "japanese": "佐藤つば冴"
+      },
+      "season": {
+        "name": "Opening New Doors",
+        "year": "2018 - "
+      },
+      "image": "tsubasa_sato",
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://www.instagram.com/korochan25/"
+        },
+        {
+          "type": "twitter",
+          "icon": "twitter",
+          "url": "https://twitter.com/korochan25"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "type": "cast",
+      "name": {
+        "english": "Mayu Koseta",
+        "japanese": "小瀬田麻由"
+      },
+      "season": {
+        "name": "Opening New Doors",
+        "year": "2018 - "
+      },
+      "image": "mayu_koseta",
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://www.instagram.com/kosetamayu/"
+        },
+        {
+          "type": "twitter",
+          "icon": "twitter",
+          "url": "https://twitter.com/KstMayu"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "type": "cast",
+      "name": {
+        "english": "Takayuki Nakamura",
+        "japanese": "中村貴之"
+      },
+      "season": {
+        "name": "Opening New Doors",
+        "year": "2018 - "
+      },
+      "image": "takayuki_nakamura",
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://www.instagram.com/taka_brew/"
+        },
+        {
+          "type": "twitter",
+          "icon": "twitter",
+          "url": "https://twitter.com/taka_brew"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "type": "cast",
+      "name": {
+        "english": "Shohei Uemura",
+        "japanese": "上村翔平"
+      },
+      "season": {
+        "name": "Opening New Doors",
+        "year": "2018 - "
+      },
+      "image": "shohei_uemura",
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://www.instagram.com/shoheyuemura/"
+        },
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://www.instagram.com/three1989tokyo/"
+        },
+        {
+          "type": "twitter",
+          "icon": "twitter",
+          "url": "https://twitter.com/shoheiuemura"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "type": "cast",
+      "name": {
+        "english": "Noah Ishikura",
+        "japanese": "石倉ノア"
+      },
+      "season": {
+        "name": "Opening New Doors",
+        "year": "2018 - "
+      },
+      "image": "noah_ishikura",
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://www.instagram.com/zeppelin.noah/"
+        },
+        {
+          "type": "twitter",
+          "icon": "twitter",
+          "url": "https://twitter.com/lespros_noah"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "type": "cast",
+      "name": {
+        "english": "Seina Shimabukuro",
+        "japanese": "島袋聖南"
+      },
+      "season": {
+        "name": "Opening New Doors",
+        "year": "2018 - "
+      },
+      "image": "seina_shimabukuro",
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://www.instagram.com/seina4444/"
+        },
+        {
+          "type": "twitter",
+          "icon": "twitter",
+          "url": "https://twitter.com/TERASEINA"
+        },
+        {
+          "type": "youtube",
+          "icon": "youtube",
+          "url": "https://www.youtube.com/channel/UC0SlpgRznBDEX9SX6sTTWSg"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "type": "cast",
+      "name": {
+        "english": "Yui Tanaka",
+        "japanese": "田中優衣"
+      },
+      "season": {
+        "name": "Opening New Doors",
+        "year": "2018 - "
+      },
+      "image": "yui_tanaka",
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://www.instagram.com/heisei_8nen/"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "type": "cast",
+      "name": {
+        "english": "Aya Matarai",
+        "japanese": "又来綾"
+      },
+      "season": {
+        "name": "Opening New Doors",
+        "year": "2018 - "
+      },
+      "image": "aya_matarai",
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://www.instagram.com/matarai_aya/"
+        },
+        {
+          "type": "twitter",
+          "icon": "twitter",
+          "url": "https://twitter.com/matarai_aya"
+        },
+        {
+          "type": "blog",
+          "icon": "pencil",
+          "url": "https://ameblo.jp/arielayaya/"
+        }
+      ]
     }
   ]
 }

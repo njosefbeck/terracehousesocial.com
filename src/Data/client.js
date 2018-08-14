@@ -64,6 +64,17 @@ const client = {
       }
     });
 
+    // Sort by year, with most recent year coming first
+    seasons.sort((a, b) => {
+      if (a.year > b.year) {
+        return -1;
+      }
+      if (a.year < b.year) {
+        return 1;
+      }
+      return 0;
+    });
+
     return [commentators, ...seasons];
 
   }
