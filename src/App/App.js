@@ -71,7 +71,7 @@ const Header = (props) => {
 const Footer = (props) => {
   return (
     <footer>
-      <p>Made with love by {<FontAwesomeIcon icon={faHeart} />} <a href="https://njosefbeck.com" rel="noopener noreferrer" target="_blank">njosefbeck</a>.<br/>All images and information copyright to their respective owners.</p>
+      <p>Made with {<FontAwesomeIcon icon={faHeart} />} by <a href="https://njosefbeck.com" rel="noopener noreferrer" target="_blank">njosefbeck</a>.<br/>All images and information copyright to their respective owners.</p>
     </footer>
   );
 };
