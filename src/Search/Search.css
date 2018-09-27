@@ -3,7 +3,7 @@
 }
 
 .Search label span {
-  display: none;
+  visibility: hidden;
 }
 
 .Search input {

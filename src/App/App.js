@@ -63,6 +63,7 @@ const Header = (props) => {
     <header>
       <h1>Terrace House Social</h1>
       <p>Below you'll find social media accounts for commentators and cast from the Netflix&trade; seasons of Terrace House&trade;. Have an update to the list? Feel free to <a href="https://twitter.com/terracesocial" target="_blank" rel="noopener noreferrer">reach out via Twitter</a> or at <a href="mailto:hello@terracehousesocial.com">hello@terracehousesocial.com</a>. Please note: we are in no way affiliated with the show!</p>
+      <p className="update">9/27/18 - Updated Guy Sato's Instagram profile link. Thanks to Kris for the update!</p>
       <p className="update">8/14/18 - BIG UPDATE! Added and removed social media accounts for previous season cast members, added Opening New Doors cast members, and added Shono Hayama as a commentator. BIG THANKS to <a href="https://juicersx.us/" rel="noopener noreferrer" target="_blank">juicersx</a> for making this update possible!</p>
     </header>
   );
