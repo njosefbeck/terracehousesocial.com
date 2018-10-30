@@ -1404,6 +1404,31 @@
           "url": "https://ameblo.jp/arielayaya/"
         }
       ]
+    },
+    {
+      "id": 53,
+      "type": "cast",
+      "name": {
+        "english": "Shunsuke Ikezoe",
+        "japanese": "池添俊亮"
+      },
+      "season": {
+        "name": "Opening New Doors",
+        "year": "2018 - "
+      },
+      "image": "shunsuke_ikezoe",
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://www.instagram.com/zoe_boy_0427/"
+        },
+        {
+          "type": "twitter",
+          "icon": "twitter",
+          "url": "https://twitter.com/Shunsuke_Ikezoe"
+        }
+      ]
     }
   ]
 }
