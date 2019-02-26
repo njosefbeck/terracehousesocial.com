@@ -1104,7 +1104,7 @@
       },
       "season": {
         "name": "Opening New Doors",
-        "year": "2018 - "
+        "year": "2018 - 2019"
       },
       "image": "ami_komuro",
       "accounts": [
@@ -1129,7 +1129,7 @@
       },
       "season": {
         "name": "Opening New Doors",
-        "year": "2018 - "
+        "year": "2018 - 2019"
       },
       "image": "yuudai_arai",
       "accounts": [
@@ -1154,7 +1154,7 @@
       },
       "season": {
         "name": "Opening New Doors",
-        "year": "2018 - "
+        "year": "2018 - 2019"
       },
       "image": "mizuki_haruta",
       "accounts": [
@@ -1179,7 +1179,7 @@
       },
       "season": {
         "name": "Opening New Doors",
-        "year": "2018 - "
+        "year": "2018 - 2019"
       },
       "image": "shion_okamoto",
       "accounts": [
@@ -1204,7 +1204,7 @@
       },
       "season": {
         "name": "Opening New Doors",
-        "year": "2018 - "
+        "year": "2018 - 2019"
       },
       "image": "tsubasa_sato",
       "accounts": [
@@ -1229,7 +1229,7 @@
       },
       "season": {
         "name": "Opening New Doors",
-        "year": "2018 - "
+        "year": "2018 - 2019"
       },
       "image": "mayu_koseta",
       "accounts": [
@@ -1254,7 +1254,7 @@
       },
       "season": {
         "name": "Opening New Doors",
-        "year": "2018 - "
+        "year": "2018 - 2019"
       },
       "image": "takayuki_nakamura",
       "accounts": [
@@ -1279,7 +1279,7 @@
       },
       "season": {
         "name": "Opening New Doors",
-        "year": "2018 - "
+        "year": "2018 - 2019"
       },
       "image": "shohei_uemura",
       "accounts": [
@@ -1309,7 +1309,7 @@
       },
       "season": {
         "name": "Opening New Doors",
-        "year": "2018 - "
+        "year": "2018 - 2019"
       },
       "image": "noah_ishikura",
       "accounts": [
@@ -1334,7 +1334,7 @@
       },
       "season": {
         "name": "Opening New Doors",
-        "year": "2018 - "
+        "year": "2018 - 2019"
       },
       "image": "seina_shimabukuro",
       "accounts": [
@@ -1364,7 +1364,7 @@
       },
       "season": {
         "name": "Opening New Doors",
-        "year": "2018 - "
+        "year": "2018 - 2019"
       },
       "image": "yui_tanaka",
       "accounts": [
@@ -1384,7 +1384,7 @@
       },
       "season": {
         "name": "Opening New Doors",
-        "year": "2018 - "
+        "year": "2018 - 2019"
       },
       "image": "aya_matarai",
       "accounts": [
@@ -1414,7 +1414,7 @@
       },
       "season": {
         "name": "Opening New Doors",
-        "year": "2018 - "
+        "year": "2018 - 2019"
       },
       "image": "shunsuke_ikezoe",
       "accounts": [
@@ -1429,6 +1429,130 @@
           "url": "https://twitter.com/Shunsuke_Ikezoe"
         }
       ]
+    },
+    {
+      "id": 54,
+      "type": "cast",
+      "name": {
+        "english": "Kaito Nakata",
+        "japanese": "中田海斗"
+      },
+      "season": {
+        "name": "Opening New Doors",
+        "year": "2018 - 2019"
+      },
+      "image": "kaito_nakata",
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://www.instagram.com/kayerp/"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "type": "cast",
+      "name": {
+        "english": "Maya Kisanuki",
+        "japanese": "木佐貫まや"
+      },
+      "season": {
+        "name": "Opening New Doors",
+        "year": "2018 - 2019"
+      },
+      "image": "maya_kisanuki",
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://www.instagram.com/maaayaofficial/"
+        },
+        {
+          "type": "twitter",
+          "icon": "twitter",
+          "url": "https://twitter.com/maaayaofficial"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "type": "cast",
+      "name": {
+        "english": "Sota Kono",
+        "japanese": "河野聡太"
+      },
+      "season": {
+        "name": "Opening New Doors",
+        "year": "2018 - 2019"
+      },
+      "image": "sota_kono",
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://www.instagram.com/sota_kono"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "type": "cast",
+      "name": {
+        "english": "Aio Fukuda",
+        "japanese": "福田愛大"
+      },
+      "season": {
+        "name": "Opening New Doors",
+        "year": "2018 - 2019"
+      },
+      "image": "aio_fukuda",
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://www.instagram.com/aiofukuda_/"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "type": "cast",
+      "name": {
+        "english": "Risako Tanigawa",
+        "japanese": "谷川利沙子"
+      },
+      "season": {
+        "name": "Opening New Doors",
+        "year": "2018 - 2019"
+      },
+      "image": "risako_tanigawa",
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://www.instagram.com/risakoko/"
+        },
+        {
+          "type": "twitter",
+          "icon": "twitter",
+          "url": "https://mobile.twitter.com/risakotanigawa"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "type": "cast",
+      "name": {
+        "english": "Masao Wada",
+        "japanese": "和田理生"
+      },
+      "season": {
+        "name": "Opening New Doors",
+        "year": "2018 - 2019"
+      },
+      "image": "masao_wada",
+      "accounts": []
     }
   ]
 }
