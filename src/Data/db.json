@@ -475,7 +475,7 @@
         {
           "type": "instagram",
           "icon": "instagram",
-          "url": "https://www.instagram.com/yuukibyrnes_official/"
+          "url": "https://www.instagram.com/yuukibyrnes_1992/"
         },
         {
           "type": "youtube",
@@ -1552,7 +1552,426 @@
         "year": "2018 - 2019"
       },
       "image": "masao_wada",
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://www.instagram.com/kyujitsu_kacho"
+        },
+        {
+          "type": "twitter",
+          "icon": "twitter",
+          "url": "https://twitter.com/eninaranaiotoko"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "type": "cast",
+      "name": {
+        "english": "Tetsuya Sugaya",
+        "japanese": "菅谷哲也"
+      },
+      "season": {
+        "name": "Boys x Girls Next Door",
+        "year": "2012 - 2014"
+      },
+      "image": "tetsuya_sugaya",
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://instagram.com/tetsuyasugaya"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "type": "cast",
+      "name": {
+        "english": "Rie Kitahara",
+        "japanese": "北原里英"
+      },
+      "season": {
+        "name": "Boys x Girls Next Door",
+        "year": "2012 - 2014"
+      },
+      "image": "rie_kitahara",
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://instagram.com/rie_kitahara_3"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "type": "cast",
+      "name": {
+        "english": "Masato Yukawa",
+        "japanese": "湯川正人"
+      },
+      "season": {
+        "name": "Boys x Girls Next Door",
+        "year": "2012 - 2014"
+      },
+      "image": "masato_yukawa",
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://instagram.com/masatoyukawa"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "type": "cast",
+      "name": {
+        "english": "Shota Nakatsugawa",
+        "japanese": "中津川翔太"
+      },
+      "season": {
+        "name": "Boys x Girls Next Door",
+        "year": "2012 - 2014"
+      },
+      "image": "shota_nakatsugawa",
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://instagram.com/shota_nakatsugawa"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "type": "cast",
+      "name": {
+        "english": "Momoko Takeuchi",
+        "japanese": "竹内桃子"
+      },
+      "season": {
+        "name": "Boys x Girls Next Door",
+        "year": "2012 - 2014"
+      },
+      "image": "momoko_takeuchi",
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://instagram.com/xchanmomox"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "type": "cast",
+      "name": {
+        "english": "Hana Imai",
+        "japanese": "今井華"
+      },
+      "season": {
+        "name": "Boys x Girls Next Door",
+        "year": "2012 - 2014"
+      },
+      "image": "hana_imai",
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://instagram.com/imaihana"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "type": "cast",
+      "name": {
+        "english": "Daiki Miyagi",
+        "japanese": "宮城大樹"
+      },
+      "season": {
+        "name": "Boys x Girls Next Door",
+        "year": "2012 - 2014"
+      },
+      "image": "daiki_miyagi",
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://instagram.com/dykinman"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "type": "cast",
+      "name": {
+        "english": "Tetsuya Iwanaga",
+        "japanese": "岩永徹也"
+      },
+      "season": {
+        "name": "Boys x Girls Next Door",
+        "year": "2012 - 2014"
+      },
+      "image": "tetsuya_iwanaga",
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://instagram.com/iwanaga.bro"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "type": "cast",
+      "name": {
+        "english": "Aya Kondo",
+        "japanese": "近藤あや"
+      },
+      "season": {
+        "name": "Boys x Girls Next Door",
+        "year": "2012 - 2014"
+      },
+      "image": "aya_kondo",
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://instagram.com/doraemontoaya"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "type": "cast",
+      "name": {
+        "english": "Miwako Kakei",
+        "japanese": "筧美和子"
+      },
+      "season": {
+        "name": "Boys x Girls Next Door",
+        "year": "2012 - 2014"
+      },
+      "image": "miwako_kakei",
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://instagram.com/miwakokakei"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "type": "cast",
+      "name": {
+        "english": "Midori Takechi",
+        "japanese": "武智ミドリ"
+      },
+      "season": {
+        "name": "Boys x Girls Next Door",
+        "year": "2012 - 2014"
+      },
+      "image": "midori_takechi",
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://instagram.com/midoritakechi"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "type": "cast",
+      "name": {
+        "english": "Rina Sumioka",
+        "japanese": "住岡梨奈"
+      },
+      "season": {
+        "name": "Boys x Girls Next Door",
+        "year": "2012 - 2014"
+      },
+      "image": "rina_sumioka",
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://instagram.com/sumioka_rina"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "type": "cast",
+      "name": {
+        "english": "Yosuke Imai",
+        "japanese": "今井洋介"
+      },
+      "season": {
+        "name": "Boys x Girls Next Door",
+        "year": "2012 - 2014"
+      },
+      "image": "yosuke_imai",
       "accounts": []
+    },
+    {
+      "id": 73,
+      "type": "cast",
+      "name": {
+        "english": "Mai Nagatani",
+        "japanese": "永谷真絵"
+      },
+      "season": {
+        "name": "Boys x Girls Next Door",
+        "year": "2012 - 2014"
+      },
+      "image": "mai_nagatani",
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://instagram.com/chay1023_official"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "type": "cast",
+      "name": {
+        "english": "Chie Onuki",
+        "japanese": "永谷真絵"
+      },
+      "season": {
+        "name": "Boys x Girls Next Door",
+        "year": "2012 - 2014"
+      },
+      "image": "chie_onuki",
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://instagram.com/chie_0704"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "type": "cast",
+      "name": {
+        "english": "Ippei Shima",
+        "japanese": "島一平"
+      },
+      "season": {
+        "name": "Boys x Girls Next Door",
+        "year": "2012 - 2014"
+      },
+      "image": "ippei_shima",
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://instagram.com/mippei_"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "type": "cast",
+      "name": {
+        "english": "Frances Cihi",
+        "japanese": "フランセス・スィーヒ"
+      },
+      "season": {
+        "name": "Boys x Girls Next Door",
+        "year": "2012 - 2014"
+      },
+      "image": "frances_cihi",
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://instagram.com/furpuff"
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "type": "cast",
+      "name": {
+        "english": "Ryoko Hirasawa",
+        "japanese": "平澤遼子"
+      },
+      "season": {
+        "name": "Boys x Girls Next Door",
+        "year": "2012 - 2014"
+      },
+      "image": "ryoko_hirasawa",
+      "accounts": []
+    },
+    {
+      "id": 78,
+      "type": "cast",
+      "name": {
+        "english": "Kenya Yasuda",
+        "japanese": "保田賢也"
+      },
+      "season": {
+        "name": "Boys x Girls Next Door",
+        "year": "2012 - 2014"
+      },
+      "image": "kenya_yasuda",
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://instagram.com/kenya_yasuda_"
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "type": "cast",
+      "name": {
+        "english": "Michiko Yamanaka",
+        "japanese": "山中美智子"
+      },
+      "season": {
+        "name": "Boys x Girls Next Door",
+        "year": "2012 - 2014"
+      },
+      "image": "michiko_yamanaka",
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://instagram.com/alexiastam1988"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "type": "cast",
+      "name": {
+        "english": "Daiki Itoh",
+        "japanese": "伊東大輝"
+      },
+      "season": {
+        "name": "Boys x Girls Next Door",
+        "year": "2012 - 2014"
+      },
+      "image": "daiki_itoh",
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://instagram.com/daikiitoh"
+        }
+      ]
     }
   ]
 }
