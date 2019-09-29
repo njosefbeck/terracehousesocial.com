@@ -62,7 +62,7 @@ const Header = (props) => {
   return (
     <header>
       <h1>Terrace House Social</h1>
-      <p>Below you'll find social media accounts for the panel and cast from the Netflix&trade; seasons of Terrace House&trade;. Have an update to the list? Feel free to <a href="https://twitter.com/terracesocial" target="_blank" rel="noopener noreferrer">reach out via Twitter</a> or at <a href="mailto:hello@terracehousesocial.com">hello@terracehousesocial.com</a>. Please note: we are in no way affiliated with the show!</p>
+      <p>Below you'll find social media accounts for the panel and cast from Terrace House&trade;. Have an update to the list? Feel free to <a href="https://twitter.com/terracesocial" target="_blank" rel="noopener noreferrer">reach out via Twitter</a> or at <a href="mailto:hello@terracehousesocial.com">hello@terracehousesocial.com</a>. Please note: we are in no way affiliated with the show!</p>
       <p className="update">3/1/19 - Added the cast of Boys x Girls Next Door. Thanks to reddit users <a href="https://www.reddit.com/user/ajiichaban" target="_blank" rel="noopener noreferrer">ajiichaban</a> and <a href="https://www.reddit.com/user/daiki3" target="_blank" rel="noopener noreferrer">daiki3</a> for their help! Updated Yuuki Byrnes & Masao Wada's instagram accounts.</p>
       <p className="update">2/26/19 - Added remaining cast members for Opening New Doors season. Reach out if we're missing anyone's social media accounts!</p>
       <p className="update">9/27/18 - Updated Guy Sato's Instagram profile link. Thanks to Kris for the update!</p>
