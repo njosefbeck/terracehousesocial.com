@@ -2,7 +2,7 @@
   "members": [
     {
       "id": 1,
-      "type": "commentator",
+      "type": "panel",
       "name": {
           "english": "YOU",
           "japanese": "江原由希子"
@@ -956,7 +956,7 @@
     },
     {
       "id": 35,
-      "type": "commentator",
+      "type": "panel",
       "name": {
         "english": "Reina Triendl",
         "japanese": "トリンドル 玲奈"
@@ -987,7 +987,7 @@
     },
     {
       "id": 36,
-      "type": "commentator",
+      "type": "panel",
       "name": {
         "english": "Yoshimi Tokui",
         "japanese": "徳井義実"
@@ -1008,7 +1008,7 @@
     },
     {
       "id": 37,
-      "type": "commentator",
+      "type": "panel",
       "name": {
         "english": "Azusa Babazono",
         "japanese": "馬場園梓"
@@ -1029,7 +1029,7 @@
     },
     {
       "id": 38,
-      "type": "commentator",
+      "type": "panel",
       "name": {
         "english": "Ryota Yamasato",
         "japanese": "山里亮太"
@@ -1050,7 +1050,7 @@
     },
     {
       "id": 39,
-      "type": "commentator",
+      "type": "panel",
       "name": {
         "english": "Kentaro",
         "japanese": "健太郎"
@@ -1076,7 +1076,7 @@
     },
     {
       "id": 40,
-      "type": "commentator",
+      "type": "panel",
       "name": {
         "english": "Shono Hayama",
         "japanese": "葉山奨之"
@@ -1970,6 +1970,131 @@
           "type": "instagram",
           "icon": "instagram",
           "url": "https://instagram.com/daikiitoh"
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "type": "cast",
+      "name": {
+        "english": "Kaori Watanabe",
+        "japanese": "渡邉香織"
+      },
+      "season": {
+        "name": "Tokyo",
+        "year": "2019 - 2020"
+      },
+      "image": "kaori_watanabe",
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://instagram.com/foxco_kaori"
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "type": "cast",
+      "name": {
+        "english": "Shohei Matsuzaki",
+        "japanese": "松嵜翔平"
+      },
+      "season": {
+        "name": "Tokyo",
+        "year": "2019 - 2020"
+      },
+      "image": "shohei_matsuzaki",
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://instagram.com/matuzakishohei"
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "type": "cast",
+      "name": {
+        "english": "Haruka Okuyama",
+        "japanese": "奥山春花"
+      },
+      "season": {
+        "name": "Tokyo",
+        "year": "2019 - 2020"
+      },
+      "image": "haruka_okuyama",
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://instagram.com/p/B2t6WkxnqXG/"
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "type": "cast",
+      "name": {
+        "english": "Kenji 'Kenny' Yoshihara",
+        "japanese": "吉原健司"
+      },
+      "season": {
+        "name": "Tokyo",
+        "year": "2019 - 2020"
+      },
+      "image": "kenji_yoshihara",
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://instagram.com/p/kenny_spicysol/"
+        },
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://instagram.com/p/kennysurf/"
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "type": "cast",
+      "name": {
+        "english": "Risako Tanabe",
+        "japanese": "田辺莉咲子"
+      },
+      "season": {
+        "name": "Tokyo",
+        "year": "2019 - 2020"
+      },
+      "image": "risako_tanabe",
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://instagram.com/p/risako_tanabe/"
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "type": "cast",
+      "name": {
+        "english": "Ruka Nishinoiri",
+        "japanese": "西野入流佳"
+      },
+      "season": {
+        "name": "Tokyo",
+        "year": "2019 - 2020"
+      },
+      "image": "ruka_nishinoiri",
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://instagram.com/l_pool_/"
         }
       ]
     }
