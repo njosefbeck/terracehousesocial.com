@@ -1,8 +1,8 @@
 import json from './db';
 
 const client = {
-  getAllCommentators() {
-    return json.members.filter(member => member.type === 'commentator');
+  getAllPanel() {
+    return json.members.filter(member => member.type === 'panel');
   },
 
   getAllCast() {
@@ -49,10 +49,10 @@ const client = {
 
   buildState() {
 
-    // Build commentators object
-    const commentators = {
-      title: "Commentators",
-      members: this.getAllCommentators()
+    // Build panel object
+    const panel = {
+      title: "Panel",
+      members: this.getAllPanel()
     };
 
     // Build array of seasons objects
@@ -75,7 +75,7 @@ const client = {
       return 0;
     });
 
-    return [commentators, ...seasons];
+    return [panel, ...seasons];
 
   }
 };
