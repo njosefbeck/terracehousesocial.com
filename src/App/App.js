@@ -68,6 +68,8 @@ const Header = (props) => {
       <p className="update">9/27/18 - Updated Guy Sato's Instagram profile link. Thanks to Kris for the update!</p>
       <p className="update">9/29/19 - Added new cast for Tokyo season (2019 - 2020). BIG THANKS to <a href="https://juicersx.us/" rel="noopener noreferrer" target="_blank">juicersx</a> for making this update possible!</p>
       <p className="update">11/24/19 - Updated Avian's instagram. Updated Cheri's instagram thanks to Jana. Removed Wez's social media. Added Closing Door cast thanks to Reddit user <a href="https://www.reddit.com/user/reddumpling/" target="_blank" rel="noopener noreferrer">reddumpling</a>.</p>
+      
+      <p className="update" style={{ textAlign: 'center' }}>If you're interested in supporting this project, consider <a target="_blank" rel="noopener noreferrer" href="https://www.buymeacoffee.com/njosefbeck">buying me a tea!</a></p>
     </header>
   );
 };
@@ -75,7 +77,7 @@ const Header = (props) => {
 const Footer = (props) => {
   return (
     <footer>
-      <p>Made with {<FontAwesomeIcon icon={faHeart} />} by <a href="https://njosefbeck.com" rel="noopener noreferrer" target="_blank">njosefbeck</a>. <a class="bmc-button" target="_blank" rel="noopner noreferrer" href="https://www.buymeacoffee.com/njosefbeck">Buy me a tea!</a><br/>All images and information copyright to their respective owners.</p>
+      <p>Made with {<FontAwesomeIcon icon={faHeart} />} by <a href="https://njosefbeck.com" rel="noopener noreferrer" target="_blank">njosefbeck</a>. <a target="_blank" rel="noopener noreferrer" href="https://www.buymeacoffee.com/njosefbeck">Buy me a tea!</a><br/>All images and information copyright to their respective owners.</p>
     </footer>
   );
 };
