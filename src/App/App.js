@@ -63,12 +63,11 @@ const Header = (props) => {
     <header>
       <h1>Terrace House Social</h1>
       <p>Below you'll find social media accounts for the panel and cast from Terrace House&trade;. Have an update to the list? Feel free to <a href="https://twitter.com/terracesocial" target="_blank" rel="noopener noreferrer">reach out via Twitter</a> or at <a href="mailto:hello@terracehousesocial.com">hello@terracehousesocial.com</a>. Please note: we are in no way affiliated with the show!</p>
-      <p className="update">11/24/19 - Updated Avian's instagram. Updated Cheri's instagram.</p>
-      <p className="update">3/1/19 - Added the cast of Boys x Girls Next Door. Thanks to reddit users <a href="https://www.reddit.com/user/ajiichaban" target="_blank" rel="noopener noreferrer">ajiichaban</a> and <a href="https://www.reddit.com/user/daiki3" target="_blank" rel="noopener noreferrer">daiki3</a> for their help! Updated Yuuki Byrnes & Masao Wada's instagram accounts.</p>
-      <p className="update">2/26/19 - Added remaining cast members for Opening New Doors season. Reach out if we're missing anyone's social media accounts!</p>
+
+      <h2>Updates</h2>
       <p className="update">9/27/18 - Updated Guy Sato's Instagram profile link. Thanks to Kris for the update!</p>
-      <p className="update">8/14/18 - BIG UPDATE! Added and removed social media accounts for previous season cast members, added Opening New Doors cast members, and added Shono Hayama as a panelist. BIG THANKS to <a href="https://juicersx.us/" rel="noopener noreferrer" target="_blank">juicersx</a> for making this update possible!</p>
       <p className="update">9/29/19 - Added new cast for Tokyo season (2019 - 2020). BIG THANKS to <a href="https://juicersx.us/" rel="noopener noreferrer" target="_blank">juicersx</a> for making this update possible!</p>
+      <p className="update">11/24/19 - Updated Avian's instagram. Updated Cheri's instagram thanks to Jana. Removed Wez's social media. Added Closing Door cast thanks to Reddit user <a href="https://www.reddit.com/user/reddumpling/" target="_blank" rel="noopener noreferrer">reddumpling</a>.</p>
     </header>
   );
 };
@@ -76,7 +75,7 @@ const Header = (props) => {
 const Footer = (props) => {
   return (
     <footer>
-      <p>Made with {<FontAwesomeIcon icon={faHeart} />} by <a href="https://njosefbeck.com" rel="noopener noreferrer" target="_blank">njosefbeck</a>.<br/>All images and information copyright to their respective owners.</p>
+      <p>Made with {<FontAwesomeIcon icon={faHeart} />} by <a href="https://njosefbeck.com" rel="noopener noreferrer" target="_blank">njosefbeck</a>. <a class="bmc-button" target="_blank" rel="noopner noreferrer" href="https://www.buymeacoffee.com/njosefbeck">Buy me a tea!</a><br/>All images and information copyright to their respective owners.</p>
     </footer>
   );
 };

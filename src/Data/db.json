@@ -838,11 +838,6 @@
       "image": "wesley_nakajima",
       "accounts": [
         {
-          "type": "instagram",
-          "icon": "instagram",
-          "url": "https://www.instagram.com/wez_nakajima_/"
-        },
-        {
           "type": "website",
           "icon": "file-text",
           "url": "http://weznakajima.com/"
@@ -2097,6 +2092,84 @@
           "url": "https://instagram.com/l_pool_/"
         }
       ]
+    },
+    {
+      "id": 87,
+      "type": "cast",
+      "name": {
+        "english": "Yuiko Matsukawa",
+        "japanese": "松川佑依子"
+      },
+      "season": {
+        "name": "Closing Door",
+        "year": "2015"
+      },
+      "image": "yuiko_matsukawa",
+      "accounts": []
+    },
+    {
+      "id": 88,
+      "type": "cast",
+      "name": {
+        "english": "Maya Izumi",
+        "japanese": "和泉真弥"
+      },
+      "season": {
+        "name": "Closing Door",
+        "year": "2015"
+      },
+      "image": "maya_izumi",
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://www.instagram.com/izm_my/"
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "type": "cast",
+      "name": {
+        "english": "Jin Otabe",
+        "japanese": "小田部仁"
+      },
+      "season": {
+        "name": "Closing Door",
+        "year": "2015"
+      },
+      "image": "jin_otabe",
+      "accounts": [
+        {
+          "type": "instagram",
+          "icon": "instagram",
+          "url": "https://www.instagram.com/jinotabe/"
+        },
+        {
+          "type": "twitter",
+          "icon": "twitter",
+          "url": "https://twitter.com/jnotb1120"
+        },
+        {
+          "type": "blog",
+          "icon": "pencil",
+          "url": "https://www.cinra.net/writer/%E5%B0%8F%E7%94%B0%E9%83%A8%E4%BB%81"
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "type": "cast",
+      "name": {
+        "english": "Keisuke Yoshino",
+        "japanese": "吉野圭佑"
+      },
+      "season": {
+        "name": "Closing Door",
+        "year": "2015"
+      },
+      "image": "keisuke_yoshino",
+      "accounts": []
     }
   ]
 }
