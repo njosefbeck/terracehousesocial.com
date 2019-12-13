@@ -1,9 +1,9 @@
-import React from 'react';
-import PropTypes from 'prop-types'
-import Img from 'gatsby-image'
-import './member.css';
+import React from "react"
+import PropTypes from "prop-types"
+import Img from "gatsby-image"
+import "./member.css"
 
-import Icons from '../Icons';
+import Icons from "../Icons"
 
 const Member = ({ japaneseName, englishName, accounts, avatar }) => {
   return (
@@ -11,7 +11,7 @@ const Member = ({ japaneseName, englishName, accounts, avatar }) => {
       {avatar && avatar.childImageSharp && (
         <div className="image-wrapper">
           <Img
-            style={{ borderRadius: '100%', display: 'block' }}
+            style={{ borderRadius: "100%", display: "block" }}
             fixed={avatar.childImageSharp.fixed}
           />
         </div>

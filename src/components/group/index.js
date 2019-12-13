@@ -1,13 +1,13 @@
-import React from 'react'
-import PropTypes from 'prop-types'
-import './group.css'
-import Member from '../member'
+import React from "react"
+import PropTypes from "prop-types"
+import "./group.css"
+import Member from "../member"
 
 const Group = ({ year, title, members }) => (
-  <div className='group'>
+  <div className="group">
     <span>{year}</span>
     <h2>{title}</h2>
-    <ul style={{display: 'flex', flexWrap: 'wrap'}}>
+    <ul style={{ display: "flex", flexWrap: "wrap" }}>
       {members.map(member => (
         <Member
           key={member.terraceHouseId}

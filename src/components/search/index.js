@@ -1,9 +1,9 @@
-import React, { useState } from 'react'
-import './search.css'
-import client from '../../client'
+import React, { useState } from "react"
+import "./search.css"
+import client from "../../client"
 
 const Search = ({ cast, defaultGroups, setGroups }) => {
-  const [ term, setTerm ] = useState('')
+  const [term, setTerm] = useState("")
 
   function doSearch(term) {
     if (!term.length) {
@@ -11,10 +11,12 @@ const Search = ({ cast, defaultGroups, setGroups }) => {
       return
     }
 
-    const groups = [{
-      title: "Search Results",
-      members: client.searchMembersByEnglishName(cast, term)
-    }]
+    const groups = [
+      {
+        title: "Search Results",
+        members: client.searchMembersByEnglishName(cast, term),
+      },
+    ]
 
     setGroups(groups)
   }

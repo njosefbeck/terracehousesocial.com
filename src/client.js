@@ -1,18 +1,18 @@
 const client = {
   getAllPanel(cast) {
-    return cast.filter(member => member.type === 'Panel');
+    return cast.filter(member => member.type === "Panel")
   },
 
   getAllCast(cast) {
-    return cast.filter(member => member.type === 'Cast');
+    return cast.filter(member => member.type === "Cast")
   },
 
   getMemberById(cast, id) {
-    return cast.find(member => member.id === id);
+    return cast.find(member => member.id === id)
   },
 
   getMemberByEnglishName(cast, name) {
-    return cast.find(member => member.englishName === name);
+    return cast.find(member => member.englishName === name)
   },
 
   getUniqueSeasons(cast) {
@@ -34,7 +34,7 @@ const client = {
       seasons.push({
         year: seasonsMap[season],
         title: season,
-        members: this.getMembersBySeasonName(cast, season)
+        members: this.getMembersBySeasonName(cast, season),
       })
     }
     return seasons
@@ -42,32 +42,32 @@ const client = {
 
   getMembersBySeasonName(cast, seasonName) {
     return cast
-      .filter(member => member.type === 'Cast')
-      .filter(cast => cast.seasonName === seasonName);
+      .filter(member => member.type === "Cast")
+      .filter(cast => cast.seasonName === seasonName)
   },
 
   searchMembersByEnglishName(cast, searchTerm) {
     const term = searchTerm
       .toUpperCase()
       .trim()
-      .split(' ')
-      .join('')
+      .split(" ")
+      .join("")
 
     return cast.filter(member => {
       const name = member.englishName
         .toUpperCase()
-        .split(' ')
-        .join('');
+        .split(" ")
+        .join("")
 
       return name.includes(term)
-    });
-
+    })
   },
 
   buildGroups(cast, avatars) {
-
     const castWithAvatars = cast.map(member => {
-      member.avatar = avatars.find(avatar => avatar.name === member.imageFilename)
+      member.avatar = avatars.find(
+        avatar => avatar.name === member.imageFilename
+      )
       return member
     })
     // Build panel object
@@ -79,17 +79,16 @@ const client = {
     // Sort by year, with most recent year coming first
     seasons.sort((a, b) => {
       if (a.year > b.year) {
-        return -1;
+        return -1
       }
       if (a.year < b.year) {
-        return 1;
+        return 1
       }
-      return 0;
-    });
+      return 0
+    })
 
-    return [panel, ...seasons];
+    return [panel, ...seasons]
+  },
+}
 
-  }
-};
-
-export default client;
+export default client

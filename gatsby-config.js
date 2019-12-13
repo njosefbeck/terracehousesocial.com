@@ -1,5 +1,5 @@
-require('dotenv').config()
-const massageNode = require('./massageNode')
+require("dotenv").config()
+const massageNode = require("./massageNode")
 
 module.exports = {
   siteMetadata: {
@@ -14,7 +14,7 @@ module.exports = {
         trackingId: "UA-108039956-1",
         anonymize: true,
         respectDNT: true,
-        head: false
+        head: false,
       },
     },
     `gatsby-plugin-react-helmet`,
@@ -50,7 +50,7 @@ module.exports = {
         },
         filterNode: () => true,
         mapNode: massageNode,
-      }
+      },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
