@@ -1,0 +1,40 @@
+.member {
+  margin-top: 5px;
+  margin-bottom: 20px;
+  padding-left: 5px;
+  padding-right: 5px;
+  width: 100%;
+}
+
+.member:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media all and (min-width: 500px) {
+  .member {
+    width: 50%;
+  }
+}
+
+.member .image-wrapper {
+  float: left;
+  margin-right: 10px;
+}
+
+.member .member-info {
+  padding-left: 80px;
+  padding-right: 10px;
+  font-size: 14px;
+}
+
+.member .member-info .member-name-english {
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.member .member-info .member-name-japanese {
+  display: block;
+  margin-bottom: 8px;
+}
