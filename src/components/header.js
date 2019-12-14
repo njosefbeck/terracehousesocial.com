@@ -23,6 +23,17 @@ const Header = () => {
 
       <h2>Updates</h2>
       <p className="update">
+        12/14/19 - Updated Yuuki Byrnes' Instagram & Twitter thanks to{" "}
+        <a
+          href="http://byreesedeluca.com/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Reese De Luca
+        </a>
+        .
+      </p>
+      <p className="update">
         9/27/18 - Updated Guy Sato's Instagram profile link. Thanks to Kris for
         the update!
       </p>
