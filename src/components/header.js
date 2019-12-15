@@ -22,6 +22,19 @@ const Header = () => {
       </p>
 
       <h2>Updates</h2>
+
+      <p className="update">
+        12/15/19 - Updated Shono Hayama's Instagram thanks to{" "}
+        <a
+          href="https://twitter.com/mstcambot"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          @mstcambot
+        </a>
+        .
+      </p>
+
       <p className="update">
         12/14/19 - Updated Yuuki Byrnes' Instagram & Twitter thanks to{" "}
         <a
@@ -47,19 +60,6 @@ const Header = () => {
           juicersx
         </a>{" "}
         for making this update possible!
-      </p>
-      <p className="update">
-        11/24/19 - Updated Avian's instagram. Updated Cheri's instagram thanks
-        to Jana. Removed Wez's social media. Added Closing Door cast thanks to
-        Reddit user{" "}
-        <a
-          href="https://www.reddit.com/user/reddumpling/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          reddumpling
-        </a>
-        .
       </p>
 
       <p className="update" style={{ textAlign: "center" }}>
