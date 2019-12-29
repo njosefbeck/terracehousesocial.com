@@ -24,6 +24,10 @@ const Header = () => {
       <h2>Updates</h2>
 
       <p className="update">
+        12/29/19 -Removed Tetsuya Iwanaga's Instagram as the one listed was his brother's. Added his Twitter. Thanks Ridha for the update!
+      </p>
+
+      <p className="update">
         12/15/19 - Updated Shono Hayama's Instagram thanks to{" "}
         <a
           href="https://twitter.com/mstcambot"
