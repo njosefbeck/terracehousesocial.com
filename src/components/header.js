@@ -24,7 +24,11 @@ const Header = () => {
       <h2>Updates</h2>
 
       <p className="update">
-        12/29/19 -Removed Tetsuya Iwanaga's Instagram as the one listed was his
+        01/11/20 - Added Tokyo (2019 - 2020) Netflix Season Part 2 cast.
+      </p>
+
+      <p className="update">
+        12/29/19 - Removed Tetsuya Iwanaga's Instagram as the one listed was his
         brother's. Added his Twitter. Thanks Ridha for the update!
       </p>
 
@@ -50,21 +54,6 @@ const Header = () => {
           Reese De Luca
         </a>
         .
-      </p>
-      <p className="update">
-        9/27/18 - Updated Guy Sato's Instagram profile link. Thanks to Kris for
-        the update!
-      </p>
-      <p className="update">
-        9/29/19 - Added new cast for Tokyo season (2019 - 2020). BIG THANKS to{" "}
-        <a
-          href="https://juicersx.us/"
-          rel="noopener noreferrer"
-          target="_blank"
-        >
-          juicersx
-        </a>{" "}
-        for making this update possible!
       </p>
 
       <p className="update" style={{ textAlign: "center" }}>
