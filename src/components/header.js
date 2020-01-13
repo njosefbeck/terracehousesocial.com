@@ -24,6 +24,10 @@ const Header = () => {
       <h2>Updates</h2>
 
       <p className="update">
+        01/12/20 - Updated Ruka Nishinoiri's Instagram. Thanks stevo2011!
+      </p>
+
+      <p className="update">
         01/11/20 - Added Tokyo (2019 - 2020) Netflix Season Part 2 cast.
       </p>
 
