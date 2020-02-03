@@ -24,6 +24,10 @@ const Header = () => {
       <h2>Updates</h2>
 
       <p className="update">
+        02/02/20 - Update Lauren Tsai, Guy Sato, & Cheri Lavoie's instagram. Thanks to <a href="https://twitter.com/britstrawberry" target="_blank" rel="noopener noreferrer">@britstrawberry</a>!
+      </p>
+
+      <p className="update">
         01/12/20 - Updated Ruka Nishinoiri's Instagram. Thanks stevo2011!
       </p>
 
