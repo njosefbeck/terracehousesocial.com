@@ -1,5 +1,5 @@
 require("dotenv").config()
-const massageNode = require("./massageNode")
+const { massageNode } = require("./massageNode")
 
 module.exports = {
   siteMetadata: {
@@ -40,17 +40,18 @@ module.exports = {
       },
     },
     {
-      resolve: "gatsby-source-google-spreadsheet",
+      resolve: `gatsby-source-airtable`,
       options: {
-        spreadsheetId: "1GUGXLH9ABY3kJCplJompPzyjFp3U0wjVYGG5PGa5Y3c",
-        typePrefix: "TerraceHouse",
-        credentials: {
-          client_email: process.env.SERVICE_ACCOUNT_EMAIL,
-          private_key: process.env.SERVICE_ACCOUNT_KEY,
-        },
-        filterNode: () => true,
-        mapNode: massageNode,
-      },
+        apiKey: process.env.AIRTABLE_KEY,
+        concurrency: 5,
+        tables: [
+          {
+            baseId: process.env.AIRTABLE_BASE_ID,
+            tableName: `Cast`,
+            tableView: `All Cast`
+          }
+        ]
+      }
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
