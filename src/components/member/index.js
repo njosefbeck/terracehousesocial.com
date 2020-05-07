@@ -3,7 +3,7 @@ import PropTypes from "prop-types"
 import Img from "gatsby-image"
 import "./member.css"
 
-import Icons from "../Icons"
+import Icons from "../icons"
 
 const Member = ({ japaneseName, englishName, accounts, avatar }) => {
   return (
