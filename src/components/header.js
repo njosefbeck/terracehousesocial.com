@@ -24,6 +24,10 @@ const Header = () => {
       <h2>Updates</h2>
 
       <p className="update">
+        05/07/20 - Added cast for new international Netflix season of Tokyo 2019–2020. Thanks to Discotech X & other contributors for making this update possible!
+      </p>
+
+      <p className="update">
         05/06/20 - Updated Cheri & Wesley's Instagram. Thanks to those who submitted the corrections!
       </p>
 
@@ -33,10 +37,6 @@ const Header = () => {
 
       <p className="update">
         01/12/20 - Updated Ruka Nishinoiri's Instagram. Thanks stevo2011!
-      </p>
-
-      <p className="update">
-        01/11/20 - Added Tokyo (2019 - 2020) Netflix Season Part 2 cast.
       </p>
     </header>
   )
