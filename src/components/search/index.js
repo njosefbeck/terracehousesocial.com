@@ -2,7 +2,7 @@ import React, { useState } from "react"
 import "./search.css"
 import client from "../../client"
 
-const Search = ({ cast, defaultGroups, setGroups }) => {
+const Search = ({ cast, defaultGroups, setGroups, avatars }) => {
   const [term, setTerm] = useState("")
 
   function doSearch(term) {
@@ -14,7 +14,7 @@ const Search = ({ cast, defaultGroups, setGroups }) => {
     const groups = [
       {
         title: "Search Results",
-        members: client.searchMembersByEnglishName(cast, term),
+        members: client.searchMembersByEnglishName(cast, avatars, term),
       },
     ]
 

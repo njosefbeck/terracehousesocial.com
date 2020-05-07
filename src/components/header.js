@@ -24,7 +24,11 @@ const Header = () => {
       <h2>Updates</h2>
 
       <p className="update">
-        02/02/20 - Update Lauren Tsai, Guy Sato, & Cheri Lavoie's instagram. Thanks to <a href="https://twitter.com/britstrawberry" target="_blank" rel="noopener noreferrer">@britstrawberry</a>!
+        05/06/20 - Updated Cheri & Wesley's Instagram. Thanks to those who submitted the corrections!
+      </p>
+
+      <p className="update">
+        02/02/20 - Updated Lauren Tsai, Guy Sato, & Cheri Lavoie's instagram. Thanks to <a href="https://twitter.com/britstrawberry" target="_blank" rel="noopener noreferrer">@britstrawberry</a>!
       </p>
 
       <p className="update">
@@ -33,46 +37,6 @@ const Header = () => {
 
       <p className="update">
         01/11/20 - Added Tokyo (2019 - 2020) Netflix Season Part 2 cast.
-      </p>
-
-      <p className="update">
-        12/29/19 - Removed Tetsuya Iwanaga's Instagram as the one listed was his
-        brother's. Added his Twitter. Thanks Ridha for the update!
-      </p>
-
-      <p className="update">
-        12/15/19 - Updated Shono Hayama's Instagram thanks to{" "}
-        <a
-          href="https://twitter.com/mstcambot"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          @mstcambot
-        </a>
-        .
-      </p>
-
-      <p className="update">
-        12/14/19 - Updated Yuuki Byrnes' Instagram & Twitter thanks to{" "}
-        <a
-          href="http://byreesedeluca.com/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Reese De Luca
-        </a>
-        .
-      </p>
-
-      <p className="update" style={{ textAlign: "center" }}>
-        If you're interested in supporting this project, consider{" "}
-        <a
-          target="_blank"
-          rel="noopener noreferrer"
-          href="https://www.buymeacoffee.com/njosefbeck"
-        >
-          buying me a tea!
-        </a>
       </p>
     </header>
   )

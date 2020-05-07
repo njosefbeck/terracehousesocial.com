@@ -16,28 +16,28 @@ function buildIcon(type) {
   let icon = null
 
   switch (type) {
-    case "instagram":
+    case "Instagram":
       icon = faInstagram
       break
-    case "twitter":
+    case "Twitter":
       icon = faTwitter
       break
-    case "snapchat":
+    case "Snapchat":
       icon = faSnapchat
       break
-    case "youTube":
+    case "YouTube":
       icon = faYoutube
       break
-    case "tumblr":
+    case "Tumblr":
       icon = faTumblr
       break
-    case "facebook":
+    case "Facebook":
       icon = faFacebook
       break
-    case "blog":
+    case "Blog":
       icon = faPencilAlt
       break
-    case "website":
+    case "Website":
       icon = faFileAlt
       break
     default:

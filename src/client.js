@@ -1,26 +1,37 @@
+function massageCast(cast, avatars) {
+  return cast.map(member => {
+    const Avatar = avatars.find(avatar => avatar.name === member.data.Image_Filename)
+    return {
+      ...member.data,
+      ...member.fields,
+      Avatar
+    }
+  })
+}
+
 const client = {
   getAllPanel(cast) {
-    return cast.filter(member => member.type === "Panel")
+    return cast.filter(member => member.Type === "Panel")
   },
 
   getAllCast(cast) {
-    return cast.filter(member => member.type === "Cast")
+    return cast.filter(member => member.Type === "Cast")
   },
 
   getMemberById(cast, id) {
-    return cast.find(member => member.id === id)
+    return cast.find(member => member.Id === id)
   },
 
   getMemberByEnglishName(cast, name) {
-    return cast.find(member => member.englishName === name)
+    return cast.find(member => member.English_Name === name)
   },
 
   getUniqueSeasons(cast) {
     const seasons = {}
     for (const member of cast) {
-      if (member.seasonName) {
-        if (!seasons[member.seasonName]) {
-          seasons[member.seasonName] = member.seasonYear
+      if (member.Season_Name) {
+        if (!seasons[member.Season_Name]) {
+          seasons[member.Season_Name] = member.Season_Year
         }
       }
     }
@@ -42,34 +53,30 @@ const client = {
 
   getMembersBySeasonName(cast, seasonName) {
     return cast
-      .filter(member => member.type === "Cast")
-      .filter(cast => cast.seasonName === seasonName)
+      .filter(member => member.Type === "Cast")
+      .filter(cast => cast.Season_Name === seasonName)
   },
 
-  searchMembersByEnglishName(cast, searchTerm) {
+  searchMembersByEnglishName(cast, avatars, searchTerm) {
     const term = searchTerm
       .toUpperCase()
       .trim()
       .split(" ")
       .join("")
 
-    return cast.filter(member => {
-      const name = member.englishName
+    const filtered = cast.filter(member => {
+      const name = member.data.English_Name
         .toUpperCase()
         .split(" ")
         .join("")
 
       return name.includes(term)
     })
+    return massageCast(filtered, avatars)
   },
 
   buildGroups(cast, avatars) {
-    const castWithAvatars = cast.map(member => {
-      member.avatar = avatars.find(
-        avatar => avatar.name === member.imageFilename
-      )
-      return member
-    })
+    const castWithAvatars = massageCast(cast, avatars)
     // Build panel object
     const panel = { title: "Panel", members: this.getAllPanel(castWithAvatars) }
 

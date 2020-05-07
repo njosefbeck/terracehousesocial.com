@@ -10,11 +10,11 @@ const Group = ({ year, title, members }) => (
     <ul style={{ display: "flex", flexWrap: "wrap" }}>
       {members.map(member => (
         <Member
-          key={member.terraceHouseId}
-          englishName={member.englishName}
-          japaneseName={member.japaneseName}
-          accounts={member.accounts}
-          avatar={member.avatar}
+          key={member.Id}
+          englishName={member.English_Name}
+          japaneseName={member.Japanese_Name}
+          accounts={member.Accounts}
+          avatar={member.Avatar}
         />
       ))}
     </ul>
